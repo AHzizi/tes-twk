@@ -1,1322 +1,1062 @@
 [
   {
     "id": 1,
-    "question": "“Negara Indonesia ialah Negara Kesatuan yang Berbentuk Republik”. Pernyataan diatas sesuai dengan isi dari ….",
-    "options": [
-      "Pasal 1 ayat 1 UUD 1945.",
-      "Pasal 1 ayat 2 UUD 1945.",
-      "Pasal 2 ayat 1 UUD 1945.",
-      "Pasal 2 ayat 2 UUD 1945."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Pasal 1 ayat 1 UUD 1945 secara tegas menyatakan bahwa negara Indonesia adalah negara kesatuan yang berbentuk republik, yang menjadi dasar bentuk negara Indonesia."
+    "question": "Sampai dengan tahun 2002, UUD 1945 telah mengalami amandemen sebanyak",
+    "options": ["Satu kali", "Dua kali", "Tiga kali", "Empat kali", "Lima kali"],
+    "correctAnswer": 3,
+    "explanation": "Sampai dengan tahun 2002, UUD 1945 telah mengalami amandemen sebanyak empat kali."
   },
   {
     "id": 2,
-    "question": "Suatu negara dapat disebut sebagai negara demokrasi apabila memiliki dua asas, yaitu,…",
-    "options": [
-      "Adanya Undang Undang dan kelengkapan negara.",
-      "Adanya pengakuan hak asasi manusia dan alat-alat kelengkapan negara.",
-      "Adanya pengakuan hak asasi manusia yang dituangkan dalam UUD negara dan partisipasi pemerintah.",
-      "Adanya UUD negara dan partisipasi masyarakat terhadap kebijakan pemerintah."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sebuah negara demokrasi harus memiliki konstitusi atau UUD sebagai dasar hukum dan menjamin adanya partisipasi aktif dari masyarakat dalam pemerintahan."
+    "question": "Piagam Jakarta ditandatangani pada",
+    "options": ["22 Juni 1954", "22 Juni 1945", "12 Juli 1945", "17 Agustus 1945", "18 Agustus 1945"],
+    "correctAnswer": 1,
+    "explanation": "Piagam Jakarta ditandatangani pada 22 Juni 1945."
   },
   {
     "id": 3,
-    "question": "Hukum dasar dalam peraturan perundang-undangan Indonesia adalah ….",
+    "question": "Perbedaan isi Piagam Jakarta dengan Pembukaan UUD 1945 adalah",
     "options": [
-      "Pancasila.",
-      "Undang-Undang Dasar 1945.",
-      "TAP MPR.",
-      "Keputusan DPR."
+      "Perbedaan pandangan mengenai sistem sosial Indonesia",
+      "Perbedaan pandangan mengenai sistem politik Indonesia",
+      "Pada Piagam Jakarta disebutkan adanya kewajiban menjalankan syariat Islam bagi pemeluknya sedangkan pada UUD 1945 tidak",
+      "Pada Pembukaan UUD 1945 disebutkan lima sila",
+      "Perbedaan pandangan mengenai penghapusan penjajahan"
     ],
-    "correctAnswer": 1,
-    "explanation": "UUD 1945 merupakan hukum dasar tertinggi yang menjadi acuan utama dalam hierarki peraturan perundang-undangan di Indonesia."
+    "correctAnswer": 2,
+    "explanation": "Perbedaan utama antara Piagam Jakarta dan Pembukaan UUD 1945 adalah adanya frasa 'dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya' di Piagam Jakarta yang kemudian dihilangkan dari Pembukaan UUD 1945."
   },
   {
     "id": 4,
-    "question": "Dalam sumber tata hukum di Indonesia, Pancasila dijadikan sebagai ….",
+    "question": "Pasal 1 ayat 1 UUD 1945 berbunyi :",
     "options": [
-      "Sumber dari segala sumber hukum.",
-      "Hukum tertinggi di Indonesia.",
-      "Hukum tertulis tertinggi di Indonesia.",
-      "Setingkat dengan UUD 1945."
+      "Negara Indonesia adalah negara kesatuan",
+      "Negara Indonesia adalah negara republik",
+      "Negara Indonesia adalah negara kesatuan sekaligus republik",
+      "Negara Indonesia adalah negara kesatuan yang berbentuk republik",
+      "Negara Indonesia adalah negara kesatuan dan republik"
     ],
-    "correctAnswer": 0,
-    "explanation": "Pancasila memiliki kedudukan sebagai sumber dari segala sumber hukum, yang berarti setiap peraturan perundang-undangan di Indonesia tidak boleh bertentangan dengan nilai-nilai Pancasila."
+    "correctAnswer": 3,
+    "explanation": "Pasal 1 ayat 1 UUD 1945 berbunyi: 'Negara Indonesia adalah negara kesatuan yang berbentuk Republik.'"
   },
   {
     "id": 5,
-    "question": "Pancasila sebagai way of life dalam kehidupan bermasyarakat, berbangsa, dan bernegara. Dalam konteks ini Pancasila memiliki makna sebagai ….",
-    "options": [
-      "Karakteristik bangsa.",
-      "Nilai-nilai kebangsaan.",
-      "Kepribadian bangsa.",
-      "Pedoman hidup."
-    ],
+    "question": "Berdasarkan UUD 1945 pasal 1 ayat 2, maka dapat ditegaskan bahwa dalam sistem perpolitikan Indonesia, kedaulatan adalah di tangan :",
+    "options": ["Presiden", "DPR", "MPR", "Rakyat", "MPR dilaksanakan oleh Presiden"],
     "correctAnswer": 3,
-    "explanation": "Pancasila sebagai 'way of life' atau pandangan hidup bangsa berfungsi sebagai pedoman hidup untuk mengatur perilaku dan sikap masyarakat Indonesia."
+    "explanation": "Berdasarkan UUD 1945 pasal 1 ayat 2, kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar."
   },
   {
     "id": 6,
-    "question": "Perwujudan kesadaran manusia sebagai makhluk berakal budi yang menunjukan harkat dan martabatnya, dan dengan tingkat kesadaran inilah maka harkat dan martabat manusia tetap luhur atau sebaliknya. Perwujudan kesadaran tersebut adalah bentuk ….",
+    "question": "Berdasarkan UUD 1945 amandemen ketiga 9 November 2001, pasal 1 bertambah satu ayat. Ayat tambahan ini menyatakan bahwa Indonesia adalah negara",
     "options": [
-      "Konsep hidup",
-      "Akal budi",
-      "Norma",
-      "Berfikir"
+      "Negara demokrasi",
+      "Negara persatuan",
+      "Negara hukum",
+      "Negara kepulauan",
+      "Negara taat peraturan internasional"
     ],
-    "correctAnswer": 0,
-    "explanation": "Norma adalah perwujudan dari kesadaran manusia berakal budi yang mengatur harkat dan martabatnya dalam kehidupan bermasyarakat."
+    "correctAnswer": 2,
+    "explanation": "Berdasarkan UUD 1945 amandemen ketiga, Pasal 1 Ayat (3) menyatakan bahwa 'Negara Indonesia adalah negara hukum'."
   },
   {
     "id": 7,
-    "question": "Demokrasi di Indonesia berdasarkan Demokrasi Pancasila yang mempunyai makna sebuah demokrasi yang dijiwai ….",
-    "options": [
-      "Semangat kepartaian",
-      "Nilai-nilai Pancasila sebagai satu kesatuan",
-      "Kepribadian bangsa Indonesia",
-      "Semangat Pancasila"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Demokrasi Pancasila adalah sistem demokrasi yang dijiwai dan dilandasi oleh nilai-nilai Pancasila sebagai satu kesatuan utuh."
+    "question": "Berdasarkan UUD 1945 amandemen keempat, 10 Agustus 2002, anggota MPR terdiri dari",
+    "options": ["DPR + DPD", "DPR + Utusan Golongan", "DPR + Fraksi tambahan", "DPR + Utusan Propinsi", "DPR + DPA"],
+    "correctAnswer": 0,
+    "explanation": "Berdasarkan UUD 1945 amandemen keempat, Pasal 2 Ayat (1) menyatakan bahwa 'Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undang-undang'."
   },
   {
     "id": 8,
-    "question": "Rumusan Pancasila yang resmi terdapat dalam ….",
-    "options": [
-      "Proklamasi 17 Agustus 1945.",
-      "Pembukaan UUD 1945.",
-      "Pidato Bung Karno.",
-      "Piagam Jakarta."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Rumusan Pancasila yang sah dan resmi sebagai dasar negara terdapat dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    "question": "Payung hukum yang dipakai untuk melakukan amandemen atau perubahan UUD 1945 adalah",
+    "options": ["Pasal 3 dan pasal 37", "Pasal 3", "Pasal 37", "Pasal 27", "Pasal 27 dan pasal 37"],
+    "correctAnswer": 0,
+    "explanation": "Payung hukum untuk melakukan amandemen UUD 1945 adalah Pasal 3 dan Pasal 37 UUD 1945."
   },
   {
     "id": 9,
-    "question": "Secara formal Pancasila disahkan sebagai dasar negara republik Indonesia pada tanggal….",
+    "question": "Sebelum diamandemen, pasal 5 ayat 1 menyatakan bahwa Presiden memegang kekuasaan membentuk Undang-undang dengan persetujuan DPR. Setelah diamandemen yang pertama, 19 Oktober 1999, pasal 5 ayat 1 berbunyi",
     "options": [
-      "17 Agustus 1945.",
-      "18 Agustus 1945.",
-      "19 Agustus 1945.",
-      "10 Oktober 1945."
+      "Presiden berhak mengajukan rancangan Undang-undang kepada DPR",
+      "Presiden menetapkan Undang-undang tanpa harus melalui persetujuan DPR",
+      "Presiden bersama-sama DPR menetapkan Undang- undang dengan persetujuan MPR",
+      "DPR membuat Undang-undang dengan persetujuan Presiden",
+      "DPR memegang kekuasaan menetapkan Undang- undang"
     ],
-    "correctAnswer": 1,
-    "explanation": "Pancasila secara formal disahkan sebagai dasar negara oleh PPKI pada tanggal 18 Agustus 1945, sehari setelah proklamasi kemerdekaan."
+    "correctAnswer": 0,
+    "explanation": "Setelah amandemen pertama, Pasal 5 ayat 1 UUD 1945 berbunyi: 'Presiden berhak mengajukan rancangan undang-undang kepada Dewan Perwakilan Rakyat.'"
   },
   {
     "id": 10,
-    "question": "Sebelum secara resmi disahkan pada tahun 1945 sebagai dasar filsafat negara, unsur-unsur Pancasila telah dimiliki dan telah melekat pada bangsa Indonesia sebagai asas dalam adat-istiadat, kebudayaan dan religius yang terangkum pada ...",
-    "options": [
-      "Kitab Sotasoma.",
-      "Kitab Negara Kartagama.",
-      "Budaya Gotong Royong.",
-      "Kitab Tripakara."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Unsur-unsur Pancasila, terutama semboyan Bhinneka Tunggal Ika, telah ada dalam Kitab Sutasoma karya Mpu Tantular jauh sebelum kemerdekaan."
+    "question": "Pemilihan Presiden dan Wakil Presiden dalam satu pasangan dan dipilih secara langsung oleh rakyat, adalah berdasarkan pada",
+    "options": ["UUD 1945 pasal 6A", "UUD 1945 pasal 6B", "UUD 1945 pasal 7C", "UUD 1945 pasal 8", "UUD 1945 pasal 10"],
+    "correctAnswer": 0,
+    "explanation": "Pemilihan Presiden dan Wakil Presiden secara langsung oleh rakyat diatur dalam UUD 1945 Pasal 6A."
   },
   {
     "id": 11,
-    "question": "Sila kemanusiaan yang adil dan beradab dilambangkan dengan simbol ....",
-    "options": [
-      "Rantai melingkar.",
-      "Pohon Beringin.",
-      "Bintang.",
-      "Padi dan kapas."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Simbol rantai melingkar pada lambang Garuda Pancasila melambangkan sila kedua, 'Kemanusiaan yang Adil dan Beradab'."
+    "question": "Dasar hukum bagi MPR untuk memberhentikan Presiden karena penghianatan negara, korupsi, penyuapan, tindak pidana berat, perbuatan tercela, atau terbukti tidak lagi memenuhi syarat sebagai Presiden, adalah",
+    "options": ["Pasal 17", "Pasal 8 B", "Pasal 7A", "Pasal 6", "Pasal 1"],
+    "correctAnswer": 2,
+    "explanation": "Dasar hukum bagi MPR untuk memberhentikan Presiden karena alasan tersebut diatur dalam UUD 1945 Pasal 7A."
   },
   {
     "id": 12,
-    "question": "Keseluruhan cara hidup masyarakat yang perwujudannya tampak pada tingkah laku para anggotanya disebut dengan….",
+    "question": "Berdasarkan UUD 1945 pasal 7C, maka pernyataan manakah yang benar ?",
     "options": [
-      "Kepercayaan.",
-      "Kebudayaan.",
-      "Ideologi.",
-      "Struktur sosial."
+      "Presiden berhak membekukan DPR jika terjadi suatu kegentingan negara",
+      "Presiden dengan persetujuan MPR dapat membubarkan DPR demi kepentingan negara",
+      "Presiden tak dapat membekukan ataupun membubarkan DPR",
+      "Presiden tak dapat membubarkan DPR, namun hanya membekukan",
+      "Presiden tak dapat membekukan DPR, namun justeru berhak membubarkannya dengan alasan yang diterima rakyat"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kebudayaan adalah keseluruhan cara hidup yang diwujudkan dalam tingkah laku, nilai, dan norma yang dianut oleh suatu masyarakat."
+    "correctAnswer": 2,
+    "explanation": "Berdasarkan UUD 1945 Pasal 7C, 'Presiden tidak dapat membekukan dan/atau membubarkan Dewan Perwakilan Rakyat.'"
   },
   {
     "id": 13,
-    "question": "Undang-undang Dasar 1945 dirancang oleh suatu badan yang dibentuk sebagai perwujudan janji pemerintahan Jepang tentang kemerdekaan bangsa Indonesia pada tahun 1945, dan pada tanggal 18 Agustus 1945 dilakukan pengesahan UUD 1945 oleh ….",
-    "options": [
-      "PPKI",
-      "DPR",
-      "BPUPKI",
-      "Komisi Kemerdekaan Indonesia"
-    ],
-    "correctAnswer": 0,
-    "explanation": "UUD 1945 disahkan sebagai konstitusi negara oleh Panitia Persiapan Kemerdekaan Indonesia (PPKI) pada tanggal 18 Agustus 1945."
+    "question": "Pasal 8 ayat 2 UUD 1945 menyatakan bahwa jika terjadi kekosongan wakil presiden, maka Presiden mengusulkan dua calon kepada MPR, yang akan ditetapkan dalam sidang MPR. Waktu penetapan calon presiden ini adalah maksimal",
+    "options": ["40 hari", "50 hari", "60 hari", "75 hari", "100 hari"],
+    "correctAnswer": 2,
+    "explanation": "Pasal 8 ayat 2 UUD 1945 menyatakan bahwa pengisian kekosongan wakil presiden harus dilakukan dalam waktu selambat-lambatnya 60 hari."
   },
   {
     "id": 14,
-    "question": "UUD 1945 berlaku sejak ditetapkan pada tanggal 18 Agustus 1945 sampai pada saat diberlakunya UUD RIS pada tanggal 27 Desember 1945 yang kemudian digantikan dengan konsep UUDS 1950. Dengan dikeluarkanya Dekrit Presiden 5 Juli 1959, Negara Indonesia kembali menggunakan UUD 1945, dan sampai saat ini sudah mengalami 4 kali amandemen. Sebutkan tanggal amandemen pertama UUD 1945.",
+    "question": "Jika terjadi kekosongan Presiden dan Wapres, maka tugas kepresidenan akan diisi sementara oleh :",
     "options": [
-      "27 Desember 1945.",
-      "5 Juli 1959.",
-      "19 Oktober 1999.",
-      "18 Agustus 2001."
+      "Menteri dalam negeri",
+      "Menteri luar negeri",
+      "Menteri pertahanan",
+      "Menteri dalam negeri, Menteri luar negeri dan Menteri pertahanan",
+      "Menteri dalam negeri dan Menteri pertahanan"
     ],
-    "correctAnswer": 2,
-    "explanation": "Amandemen pertama UUD 1945 dilakukan pada Sidang Umum MPR Tahun 1999 yang berlangsung dari tanggal 14 hingga 21 Oktober 1999."
+    "correctAnswer": 3,
+    "explanation": "Jika Presiden dan Wakil Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya secara bersamaan, pelaksana tugas kepresidenan adalah Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama. Ini diatur dalam UUD 1945 Pasal 8 ayat 3."
   },
   {
     "id": 15,
-    "question": "Lembaga negara pembuat Undang-Undang Dasar adalah",
-    "options": [
-      "DPR",
-      "MPR",
-      "DPD",
-      "Presiden"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sesuai UUD 1945, Majelis Permusyawaratan Rakyat (MPR) berwenang untuk mengubah dan menetapkan Undang-Undang Dasar."
+    "question": "Pasal 11 ayat 2 menyatakan bahwa jika Presiden membuat perjanjian internasional yang memberikan dampak luas bagi rakyat dengan terkait keuangan negara, maka harus melalui persetujuan",
+    "options": ["Bank Indonesia", "BPK", "MPR", "DPR", "Menko Ekuin dan DPR"],
+    "correctAnswer": 3,
+    "explanation": "Pasal 11 ayat 2 UUD 1945 menyatakan bahwa 'Presiden dalam membuat perjanjian internasional lainnya yang menimbulkan akibat yang luas dan mendasar bagi kehidupan rakyat yang terkait dengan beban keuangan negara, dan/atau mengharuskan perubahan atau pembentukan undang-undang harus dengan persetujuan Dewan Perwakilan Rakyat.'"
   },
   {
     "id": 16,
-    "question": "Pembahasan dan pengesahan Undang-Undang merupakan tugas dan wewenang DPR, tugas tersebut biasa disebut ….",
-    "options": [
-      "Interpelasi",
-      "Hak angket",
-      "Budgeting",
-      "Legislasi"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Fungsi legislasi DPR adalah fungsi untuk membentuk undang-undang, yang mencakup pembahasan dan pengesahan UU."
+    "question": "Presiden berhak membentuk Wantimpres (Dewan Pertimbangan Presiden) yang bertugas memberikan nasihat dan pertimbangan kepada Presiden, karena dijamin oleh UUD 1945 pasal",
+    "options": ["Pasal 16", "Pasal 17", "Pasal 18", "Pasal 19", "Pasal 20"],
+    "correctAnswer": 0,
+    "explanation": "Pembentukan Dewan Pertimbangan Presiden diatur dalam UUD 1945 Pasal 16."
   },
   {
     "id": 17,
-    "question": "Yang berwenang memberikan amnesti adalah",
+    "question": "Penghapusan Dewan Pertimbangan Agung (DPA) adalah berdasarkan amandemen UUD 1945 yang ke….",
     "options": [
-      "MPR",
-      "DPR",
-      "Menteri Hukum dan HAM",
-      "Presiden"
+      "Amandemen pertama",
+      "Amandemen kedua",
+      "Amandemen ketiga",
+      "Amandemen keempat",
+      "Amandemen kelima"
     ],
     "correctAnswer": 3,
-    "explanation": "Amnesti adalah hak prerogatif Presiden untuk memberikan pengampunan terhadap hukuman yang dijatuhkan."
+    "explanation": "Penghapusan Dewan Pertimbangan Agung (DPA) dilakukan berdasarkan Amandemen Keempat UUD 1945."
   },
   {
     "id": 18,
-    "question": "Dibawah ini yang bukan lembaga setingkat dengan Presiden setelah amandemen UUD 1945 adalah",
+    "question": "Berdasarkan pasal 17 ayat 4 UUD 1945 berbunyi : 'Pembentukan, pengubahan dan pembubaran kementrian negara….. '",
     "options": [
-      "BPK",
-      "DPD",
-      "MA",
-      "DPA"
+      "Adalah wewenang penuh Presiden",
+      "Adalah atas usul Presiden yang disetujui oleh DPR",
+      "Diatur dalam Undang-undang",
+      "Ditetapkan dalam Sidang Umum MPR",
+      "Ditetapkan oleh Presiden dengan memperhatikan usul DPR"
     ],
-    "correctAnswer": 3,
-    "explanation": "Dewan Pertimbangan Agung (DPA) dihapus setelah amandemen UUD 1945, sedangkan BPK, DPD, dan MA adalah lembaga negara yang setingkat dengan Presiden."
+    "correctAnswer": 2,
+    "explanation": "Berdasarkan Pasal 17 ayat 4 UUD 1945, 'Pembentukan, pengubahan, dan pembubaran kementerian negara diatur dalam undang-undang.'"
   },
   {
     "id": 19,
-    "question": "Dalam masa jabatanya, Presiden sebagai kepala pemerintahan memiliki tugas dan wewenang yang diatur dalam UUD 1945 antara lain ….",
-    "options": [
-      "Mengangkat dan memberhentikan Menteri",
-      "Melantik dan memberhentikan MPR",
-      "Membuat dan mengubah UUD",
-      "Mengangkat dan memberhentikan DPR"
-    ],
+    "question": "Berdasarkan UUD 1945 pasal 14 ayat 1, Presiden memberikan grasi dan rehabilitasi dengan memperhatikan pertimbangan",
+    "options": ["Mahkamah Agung", "Mahkamah Konstitusi", "Mahkamah Militer", "DPR", "MPR"],
     "correctAnswer": 0,
-    "explanation": "Presiden memiliki wewenang untuk mengangkat dan memberhentikan menteri-menteri yang membantu dalam menjalankan pemerintahan."
+    "explanation": "Berdasarkan UUD 1945 Pasal 14 ayat 1, Presiden memberikan grasi dan rehabilitasi dengan memperhatikan pertimbangan Mahkamah Agung."
   },
   {
     "id": 20,
-    "question": "Pengawasan atas pelaksanaan undang-undang mengenai otonomi daerah, pembentukan, pemekaran, dan penggabungan daerah, hubungan pusat dan daerah, pengelolaan sumber daya alam dan sumber daya ekonomi lainya, pelaksanaan anggaran pendapatan dan belanja negara, pajak, pendidikan, dan agama serta menyampaikan hasil pengawasanya itu kepada Dewan Perwakilan Rakyat sebagai bahan untuk ditindak lanjuti merupakan salah satu tugas dan fungsi...",
-    "options": [
-      "DPRD",
-      "MPR",
-      "DPD",
-      "BPK"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Tugas dan fungsi tersebut adalah wewenang DPD (Dewan Perwakilan Daerah) yang berfokus pada kepentingan daerah."
+    "question": "Berdasarkan UUD 1945 pasal 14 ayat 2, Presiden memberikan amnesty dan abolisi dengan memperhatikan pertimbangan",
+    "options": ["DPA", "DPR", "MPR", "Mahkamah Agung", "Jaksa Agung"],
+    "correctAnswer": 1,
+    "explanation": "Berdasarkan UUD 1945 Pasal 14 ayat 2, Presiden memberikan amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)."
   },
   {
     "id": 21,
-    "question": "Mahkamah Konstitusi berwenang dalam melakukan pengujian terhadap undang-undang terhadap UUD. Selain kewenangan tersebut, salah satu kewenangan MK adalah ….",
-    "options": [
-      "Melakukan perubahan pada undang-undang",
-      "Memutus perselisihan atau sengketa hasil pemilihan umum",
-      "Mengusulkan pengangkatan calon Hakim Agung",
-      "Undang-undang pengganti lainya"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Salah satu kewenangan Mahkamah Konstitusi adalah mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk memutus sengketa hasil pemilihan umum."
+    "question": "Pemberian gelar, tanda jasa dan kehormatan oleh Presiden, diatur dengan Undang-undang. Hal ini dinyatakan dalam UUD 1945 pasal",
+    "options": ["Pasal 12", "Pasal 13", "Pasal 14", "Pasal 15", "Pasal 16"],
+    "correctAnswer": 3,
+    "explanation": "Pemberian gelar, tanda jasa, dan lain-lain kehormatan oleh Presiden diatur dalam UUD 1945 Pasal 15."
   },
   {
     "id": 22,
-    "question": "Peraturan Pemerintah ditetapkan oleh Presiden untuk melaksanakan ….",
-    "options": [
-      "Undang-Undang Dasar Negara Republik Indonesia tahun 1945",
-      "Perpu",
-      "Peraturan Presiden",
-      "Undang-Undang"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Peraturan Pemerintah (PP) ditetapkan oleh Presiden untuk melaksanakan undang-undang (UU) sebagaimana mestinya."
+    "question": "Hubungan antara Pemerintah pusat dengan pemerintah daerah adalah memperhatikan kekhususan dan keragaman daerah tersebut. Hal ini didasarkan pada UUD 1945",
+    "options": ["Pasal 18A ayat 1", "Pasal 18A ayat 2", "Pasal 18", "Pasal 19 ayat 1", "Pasal 19 ayat 2"],
+    "correctAnswer": 0,
+    "explanation": "Hubungan wewenang antara pemerintah pusat dan pemerintah daerah provinsi, kabupaten, dan kota, diatur dengan undang-undang dengan memperhatikan kekhususan dan keragaman daerah, ini diatur dalam UUD 1945 Pasal 18A ayat 1."
   },
   {
     "id": 23,
-    "question": "Ketentuan dalam UUD 1945 yang memberikan peluang untuk melakukan perubahan terhadap UUD 1945 tertuang dalam pasal ….",
-    "options": [
-      "Pasal 37 ayat 1",
-      "Pasal 37 ayat 2",
-      "Pasal 37 ayat 3",
-      "Pasal 37 ayat 4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Pasal 37 ayat 1 UUD 1945 mengatur bahwa usul perubahan pasal-pasal UUD dapat diagendakan dalam sidang MPR jika diajukan oleh sekurang-kurangnya 1/3 dari jumlah anggota MPR."
+    "question": "Ketika masa Orde Baru pengelolaan keuangan Pusat-Daerah sangat timpang. Hampir semuanya dikuasai oleh pusat. Namun setelah era Reformasi ini, setelah UUD 1945 diamandemen, maka pengelolaan keuangan harus selaras dan adil. Hal ini tercantum dalam UUD 1945",
+    "options": ["Pasal 18 A ayat 1", "Pasal 18", "Pasal 19", "Pasal 33", "Pasal 18 A ayat 2"],
+    "correctAnswer": 4,
+    "explanation": "Pengelolaan keuangan Pusat-Daerah yang selaras dan adil setelah amandemen UUD 1945 tercantum dalam UUD 1945 Pasal 18A ayat 2."
   },
   {
     "id": 24,
-    "question": "Suatu Undang-Undang dinyatakan berakhir masa berlakunya apabila ….",
-    "options": [
-      "Ada Undang-Undang lain yang lebih baik dan menguntungkan pemerintah",
-      "Dicabut oleh Undang-Undang baru yang diusulkan oleh parpol terbesar",
-      "Dinyatakan sudah tidak berlaku oleh Presiden dan Wakil Presiden",
-      "Ditentukan dalam Undang-Undang tersebut kapan waktu berakhirnya"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Suatu undang-undang dapat berakhir masa berlakunya jika dalam undang-undang tersebut sudah ditentukan kapan waktu berakhirnya secara eksplisit."
+    "question": "Kesatuan masyarakat hukum yang ada di Indonesia ini sebenarnya dihormati oleh negara. Hal ini sesuai dengan UUD 1945",
+    "options": ["Pasal 8", "Pasal 9", "Pasal 18 B ayat 2", "Pasal 18 B ayat 1", "Pasal 22"],
+    "correctAnswer": 2,
+    "explanation": "Kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya dihormati oleh negara, ini diatur dalam UUD 1945 Pasal 18B ayat 2."
   },
   {
     "id": 25,
-    "question": "Berikut adalah tata urutan peraturan perundang-undangan yang berlaku di Indonesia",
-    "options": [
-      "UUD 1945 – UU/Perpu – Peraturan Pemerintah – Peraturan Presiden – Peraturan Daerah",
-      "UUD 1945 – Peraturan Pemerintah – UU/Perpu - Peraturan Presiden – Peraturan Daerah",
-      "UUD 1945 – UU/Perpu – Peraturan Presiden - Peraturan Pemerintah – Peraturan Daerah",
-      "UUD 1945 – Peraturan Presiden – Peraturan Pemerintah – UU/Perpu - Peraturan Daerah"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hierarki peraturan perundang-undangan di Indonesia yang benar adalah UUD 1945, disusul oleh UU/Perpu, Peraturan Pemerintah, Peraturan Presiden, dan terakhir Peraturan Daerah."
+    "question": "Berdasarkan UUD 1945 pasal 20, Presiden bersama DPR membahas Rancangan Undang-undang (RUU) lalu haruslah mendapatkan persetujuan bersama. Setelah RUU tersebut disepakati, lalu RUU tersebut akan disahkan oleh…",
+    "options": ["Mahkamah Konstitusi", "Disahkan berdua, Presiden bersama DPR", "Hakim Agung", "Presiden", "DPR"],
+    "correctAnswer": 3,
+    "explanation": "Berdasarkan UUD 1945 Pasal 20, setiap rancangan undang-undang yang telah disetujui bersama oleh Dewan Perwakilan Rakyat dan Presiden untuk disahkan menjadi undang-undang."
   },
   {
     "id": 26,
-    "question": "Di samping bendera dan Negara Indonesia yang kita junjung tinggi sebagai bagian dari identitas RI, bahasa Indonesia pun merupakan unsur identitas bangsa yang harus dijunjung tinggi pula. Pernyataan di atas menyatakan fungsi bahasa Indonesia sebagai…",
-    "options": [
-      "Lambang kebanggaan kebangsaan",
-      "Lambang identitas nasional",
-      "Alat pemersatu berbagai suku bangsa",
-      "Alat perhubungan antardaerah dan antarbudaya"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pernyataan tersebut menggambarkan fungsi bahasa Indonesia sebagai lambang identitas nasional, yang membedakan bangsa Indonesia dari bangsa lain."
+    "question": "Jika kita mengacu pada UUD 1945 pasal 19 ayat 3, maka dalam satu tahun, DPR minimal akan bersidang sebanyak",
+    "options": ["Satu kali", "Dua kali", "Tiga kali", "Empat kali", "Lima kali"],
+    "correctAnswer": 0,
+    "explanation": "UUD 1945 Pasal 19 ayat 3 menyatakan bahwa 'Dewan Perwakilan Rakyat bersidang sedikitnya satu kali dalam 1 (satu) tahun.'"
   },
   {
     "id": 27,
-    "question": "Pada upacara-upacara resmi seperti memperingati hari ulang tahun kemerdekaan, Pembina upacara berpidato dengan menggunakan bahasa Indoneisa. Pernyataan di atas menunjukkan fungsi bahasa Indonesia sebagai…",
-    "options": [
-      "Bahasa resmi kenegaraan",
-      "Bahasa pengantar dalam dunia pendidikan",
-      "Alat kepentingan pembangunan nasional",
-      "Alat pengembangan kebudayaan"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Penggunaan bahasa Indonesia dalam upacara-upacara resmi menunjukkan fungsinya sebagai bahasa resmi kenegaraan."
+    "question": "UUD 1945 pasal berapakah yang menyebutkan hak-hak DPR seperti hak interpelasi, hak menyatakan pendapat, dan hak angket. ?",
+    "options": ["Pasal 20 A ayat 1", "Pasal 20 A ayat 2", "Pasal 20 A ayat 3", "Pasal 20 A ayat 4", "Pasal 20 A ayat 5"],
+    "correctAnswer": 1,
+    "explanation": "Hak-hak DPR seperti hak interpelasi, hak angket, dan hak menyatakan pendapat diatur dalam UUD 1945 Pasal 20A ayat 2."
   },
   {
     "id": 28,
-    "question": "Lakukan ………………… alat-alat kantor agar semua terkontrol. Kata berimbuhan asing yang tepat untuk melengkapi kalimat diatas adalah ….",
+    "question": "Berdasarkan UUD 1945 pasal 20 A ayat 1, fungsi DPR adalah",
     "options": [
-      "Periodisasi",
-      "Reboisasi",
-      "Inventarisasi",
-      "Demokratisasi"
+      "Fungsi legislasi dan fungsi angket, serta fungsi pengawasan",
+      "Fungsi anggaran dan fungsi interpelasi",
+      "Fungsi legislasi, fungsi anggaran dan fungsi pengawasan",
+      "Fungsi legislasi dan fungsi pengawan",
+      "Fungsi interpelasi, fungsi angket, fungsi pernyataan pendapat"
     ],
     "correctAnswer": 2,
-    "explanation": "Kata 'inventarisasi' berarti pendataan atau pencatatan barang-barang secara terperinci, yang cocok untuk melengkapi kalimat tentang mengontrol alat-alat kantor."
+    "explanation": "Berdasarkan UUD 1945 Pasal 20A ayat 1, DPR memiliki fungsi legislasi, fungsi anggaran, dan fungsi pengawasan."
   },
   {
     "id": 29,
-    "question": "Ia selalu optimis dalam menghadapi segala masalah dan kesulitan. Kata bercetak miring bersinonim dengan kata dalam kalimat ….",
-    "options": [
-      "Saya ragu akan kemampuan tim basket kita.",
-      "Mengambil keputusan dengan pasti perlu dibiasakan.",
-      "Pekerjaan yang sulit dilaksanakan sebaiknya dihindari saja.",
-      "Saya yakin mereka mampu mengatasi masalah."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kata 'optimis' bersinonim dengan 'yakin', yang berarti memiliki keyakinan yang kuat terhadap suatu hal."
+    "question": "Pemilu di Indonesia harus dilaksanakan dengan LUBER JURDIL (Langsung, Umum, Bebas, Rahasia, Jujur, Adil). Hal ini sesuai dengan pernyataan pada UUD 1945",
+    "options": ["Pasal 22 E ayat 1", "Pasal 22 E ayat 2", "Pasal 22 E ayat 3", "Pasal 22 E ayat 4", "Pasal 22 E ayat 5"],
+    "correctAnswer": 0,
+    "explanation": "Pelaksanaan Pemilu yang LUBER JURDIL diatur dalam UUD 1945 Pasal 22E ayat 1."
   },
   {
     "id": 30,
-    "question": "Penulisan tanggal surat yang benar adalah ….",
-    "options": [
-      "Wonosobo, 21-06-2017",
-      "Wonosobo, 21 Juni 2017.",
-      "Wonosobo, 21-Juni 2017",
-      "Wonosobo, 21 Juni 2017"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Penulisan tanggal surat yang benar sesuai kaidah Ejaan Bahasa Indonesia adalah menulis nama kota, diikuti koma, tanggal, nama bulan, dan tahun, tanpa diakhiri titik."
+    "question": "Hal Keuangan diatur dalam UUD 1945 pada BAB VIII yaitu, pasal",
+    "options": ["Pasal 28", "Pasal 22", "Pasal 23", "Pasal 24", "Pasal 31"],
+    "correctAnswer": 2,
+    "explanation": "Hal keuangan diatur dalam UUD 1945 pada BAB VIII, Pasal 23."
   },
   {
     "id": 31,
-    "question": "Bacalah paragraph berikut dengan seksama. Industri jasa internet berkembang dengan sangat pesat. Perkembangan ini semakin membuka ruang bagi  investasi di bidang teknologi multimedia. …………………….. . Hal ini untuk mengantisipasi penyelenggara internet tanpa ijin merajalela. Kalimat yang tepat untuk melengkapi paragraph tersebut adalah ….",
+    "question": "Pasal 24 UUD 1945 berbicara mengenai",
     "options": [
-      "Beramai-ramai investor membuka jasa internet untuk bisnis.",
-      "Namun demikian, pengembangan industri tersebut harus disertai penegakan hukum.",
-      "Perkembangan teknologi multimedia harus disertai perkembangan SDM.",
-      "Pengguna jasa internet harus komitmen terhadap pengembangan kualitas jaringan di Indonesia."
+      "Kedaulatan Ekonomi",
+      "Kedaulatan wilayah negara",
+      "Kekuasaan kehakiman",
+      "Kekuasaan politik",
+      "Administrasi negara"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kalimat 'Namun demikian, pengembangan industri tersebut harus disertai penegakan hukum' menjadi penghubung logis antara perkembangan pesat industri dan kebutuhan untuk mengantisipasi penyelenggara ilegal."
+    "correctAnswer": 2,
+    "explanation": "Pasal 24 UUD 1945 berbicara mengenai kekuasaan kehakiman."
   },
   {
     "id": 32,
-    "question": "1.  Kalau anda ingin cerdas 2.  pergi ke pasar membeli talas 3.  Sebelum makan rebus dulu 4.  Siang malam baca buku. Larik-larik kalimat acak tersebut diatas akan menjadi pantun apabila disusun dengan urutan",
-    "options": [
-      "1-4-3-2",
-      "2-3-1-4",
-      "3-2-1-4",
-      "4-2-1-3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Susunan pantun yang benar adalah 3-2-1-4, di mana baris ketiga dan keempat merupakan isi, sedangkan baris pertama dan kedua merupakan sampiran, dengan rima a-b-a-b."
+    "question": "Yang berhak mengangkat hakim agung serta menegakkan kehormatan perilaku hakim menurut pasal 24B adalah",
+    "options": ["Komisi Yudisial", "Mahkamah agung", "Jaksa agung", "DPR", "Presiden"],
+    "correctAnswer": 0,
+    "explanation": "Komisi Yudisial berwenang mengusulkan pengangkatan hakim agung dan mempunyai wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim. Hal ini diatur dalam UUD 1945 Pasal 24B."
   },
   {
     "id": 33,
-    "question": "..................................................... Hari, tanggal : Sabtu, 12 Juni 2017 Waktu : Pukul 19.000 s.d. 21.00 Tempat : Balai RT 07 Agenda Rapat : Pembentukan Panitia HUT RI ke 71 Atas kehadiran saudara, kami ucapkan terima kasih. Kalimat yang paling tepat untuk melengkapi titik-titik tersebut adalah ....",
+    "question": "Tugas Mahkamah konstitusi (MK) berdasarkan pasal 24C adalah berikut ini, kecuali",
     "options": [
-      "Mengharap kehadiran Saudara pada pertemuan yang akan diselenggarakan pada",
-      "Dengan ini kami beritahukan",
-      "Bersama dengan surat ini kami sampaikan bahwa pada",
-      "Dengan hormat, kami beritahukan bahwa pada"
+      "Menguji Undang-undang terhadap UUD",
+      "Memutus sengketa kewenangan lembaga negara",
+      "Memutus pembubaran partai politik",
+      "Memutus perselisihan tentang hasil pemilu",
+      "Memutus pemberhentian atau pembekuan lembaga negara"
     ],
-    "correctAnswer": 0,
-    "explanation": "Kalimat 'Mengharap kehadiran Saudara pada pertemuan yang akan diselenggarakan pada' adalah kalimat yang paling tepat dan lazim digunakan dalam undangan resmi."
+    "correctAnswer": 4,
+    "explanation": "Tugas Mahkamah Konstitusi tidak termasuk memutus pemberhentian atau pembekuan lembaga negara. Tugas MK meliputi menguji undang-undang terhadap UUD, memutus sengketa kewenangan lembaga negara, memutus pembubaran partai politik, dan memutus perselisihan tentang hasil pemilu. Ini diatur dalam UUD 1945 Pasal 24C."
   },
   {
     "id": 34,
-    "question": "Penulisan alamat surat yang benar adalah…",
+    "question": "Yang menjadi warga negara Indonesia menurut pasal 26 UUD 1945 adalah",
     "options": [
-      "Yth. Kepala SMU BPI 3 Jalan Burangrang 8 BANDUNG",
-      "Yth. Sdr. Kepala SMU BPI 3 Jalan Burangrang 8",
-      "Yth. Sdr. Kepala SMU BPI 3 Jalan Burangrang 8 Bandung",
-      "Yth. Bapak Kepala SMU BPI 3 Jalan Burangrang 8, Bandung."
+      "Hanya orang bangsa Indonesia asli",
+      "Orang Indonesia asli dan orang bangsa lain yang disahkan dengan Undang-undang sebagai warga negara",
+      "Pribumi saja",
+      "Pribumi dan Inlander",
+      "Orang bangsa Indonesia dan keturunannya saja"
     ],
-    "correctAnswer": 2,
-    "explanation": "Penulisan alamat surat yang benar adalah menggunakan singkatan 'Yth.' dan nama tujuan yang lengkap, tanpa tambahan sapaan 'Sdr.' atau 'Bapak', dan nama kota ditulis dengan huruf kapital."
+    "correctAnswer": 1,
+    "explanation": "Menurut Pasal 26 UUD 1945, yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara."
   },
   {
     "id": 35,
-    "question": "Penulisan singkatan yang benar terdapat pada kalimat ....",
-    "options": [
-      "Bapak Tukijan hadir a.n. Bupati Wonosobo",
-      "Bapak Tukijan hadir a.n Bupati Wonosobo",
-      "Bapak Tukijan hadir a/n Bupati Wonosobo",
-      "Bapak Tukijan hadir a/n. Bupati Wonosobo"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Penulisan singkatan 'atas nama' yang benar adalah 'a.n.' diikuti oleh tanda titik setelah huruf 'n'."
+    "question": "Jika pemerintah yang terpilih tidak berusaha membuka lapangan pekerjaan bagi rakyatnya yang membutuhkan penghidupan, maka Pemerintah telah melanggar",
+    "options": ["Pasal 25", "Pasal 27", "Pasal 29", "Pasal 31", "Pasal 35"],
+    "correctAnswer": 1,
+    "explanation": "Pemerintah wajib mengusahakan dan menyelenggarakan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu sesuai dengan martabat kemanusiaan. Hal ini terkait dengan Pasal 27 ayat 2 UUD 1945 yang menyebutkan 'Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.'"
   },
   {
     "id": 36,
-    "question": "Penulisan nama gelar yang benar adalah…",
-    "options": [
-      "Prof. Dr. Surya Sumantri SH",
-      "Prof. Dr. Surya Sumantri, SH.",
-      "Prof Dr Surya Sumantri S.H.",
-      "Prof. Dr. Surya Sumantri, S.H."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Penulisan gelar yang benar menggunakan tanda titik setelah setiap singkatan gelar dan koma sebagai pemisah antara nama dan gelar."
+    "question": "Jika seorang hakim menghukum tegas kepada rakyat kecil yang melanggar hukum namun justeru membebaskan seorang pejabat tinggi negara yang melanggar hukum ini berarti hakim tersebut telah melanggar kepastian hukum yang adil, serta tidak memberikan perlakuan sama di depan hukum. Ini bertentangan dengan",
+    "options": ["Pasal 28 D ayat 1", "Pasal 28 D ayat 2", "Pasal 28 D ayat 3", "Pasal 28 D ayat 4", "Pasal 28 D ayat 7"],
+    "correctAnswer": 0,
+    "explanation": "Perlakuan sama di depan hukum dan kepastian hukum yang adil dijamin dalam UUD 1945 Pasal 28D ayat 1: 'Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum.'"
   },
   {
     "id": 37,
-    "question": "Kata-kata berhomonim dibawah ini terdapat dalam kalimat ....",
+    "question": "Berikut adalah macam-macam Hak Asasi Manusia (HAM) yang diakui oleh pasal 28 I ayat 1. Kecuali",
     "options": [
-      "Bang Jayus bekerja di Bank Mandiri",
-      "Dia bisa mengatasi bisa ular itu",
-      "Saya masih sangsi kalau mereka menerima sanksi tersebut",
-      "Warga bumiroso banyak yang tahu cara membuat tahu"
+      "Hak kemerdekaan pikiran dan hati nurani",
+      "Hak untuk hidup",
+      "Hak untuk tidak disiksa",
+      "Hak mendapatkan pekerjaan tetap",
+      "Hak untuk tidak diperbudak"
     ],
-    "correctAnswer": 1,
-    "explanation": "Homonim adalah kata yang memiliki tulisan dan pelafalan yang sama, namun maknanya berbeda. 'Bang' (sapaan) dan 'Bank' (lembaga keuangan) memiliki pelafalan yang sama tetapi ejaan berbeda."
+    "correctAnswer": 3,
+    "explanation": "Hak mendapatkan pekerjaan tetap tidak secara eksplisit disebut dalam Pasal 28I ayat 1 UUD 1945 sebagai hak yang tidak dapat dikurangi dalam keadaan apapun (non-derogable rights). Pasal 28I ayat 1 menyebutkan hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani, hak beragama, hak untuk tidak diperbudak, hak untuk diakui sebagai pribadi di hadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku surut."
   },
   {
     "id": 38,
-    "question": "Kata-kata berhomograf dibawah ini terdapat dalam kalimat ....",
+    "question": "Berikut adalah macam-macam tugas kepolisian negara Republik Indonesia sesuai dengan pasal 30 ayat 4, kecuali :",
     "options": [
-      "Bang Jayus bekerja di Bank Mandiri",
-      "Dia bisa mengatasi bisa ular itu",
-      "Saya masih sangsi kalau mereka menerima sanksi tersebut",
-      "Warga bumiroso banyak yang tahu cara membuat tahu"
+      "Alat negara yang menjaga keamanan",
+      "Menjaga ketertiban",
+      "Melindungi masyarakat",
+      "Mengayomi masyarakat",
+      "Mengamankan perbatasan negara"
     ],
-    "correctAnswer": 3,
-    "explanation": "Homograf adalah kata yang memiliki tulisan yang sama tetapi lafal dan maknanya berbeda. 'Tahu' (makanan) dan 'tahu' (mengerti) memiliki tulisan yang sama."
+    "correctAnswer": 4,
+    "explanation": "Tugas kepolisian negara Republik Indonesia sesuai Pasal 30 ayat 4 UUD 1945 adalah melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum. Mengamankan perbatasan negara lebih merupakan tugas Tentara Nasional Indonesia (TNI)."
   },
   {
     "id": 39,
-    "question": "Kalimat yang bermakna denotatif dibawah ini yang benar adalah",
+    "question": "Sesuai dengan yang ditetapkan oleh UUD 1945 pasal 31 ayat 2, maka pemerintah wajib membiayai rakyat Indonesia untuk mendapatkan",
     "options": [
-      "Janganlah menjadi anak yang ringan tangan",
-      "Lehernya dihiasi dengan kalung mutiara yang sangat indah",
-      "Ayah membawa buah tangan dari Surabaya",
-      "Mereka menjadi lintah darat"
+      "Pendidikan dasar",
+      "Pendidikan menengah",
+      "Pendidikan dasar dan menengah",
+      "Pendidikan luar sekolah",
+      "Pendidikan tinggi"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kalimat 'Lehernya dihiasi dengan kalung mutiara yang sangat indah' menggunakan makna denotatif, yaitu makna yang sebenarnya, tanpa kiasan."
+    "correctAnswer": 2,
+    "explanation": "Sesuai dengan UUD 1945 Pasal 31 ayat 2, 'Setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya.'"
   },
   {
     "id": 40,
-    "question": "Penulisan kelompok kata dibawah ini yang benar adalah",
-    "options": [
-      "Swasembada",
-      "Pra sekolah",
-      "Pasca sarjana",
-      "Dayaguna"
-    ],
+    "question": "Negara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional. Hal ini disebutkan oleh UUD 1945",
+    "options": ["Pasal 32", "Pasal 33", "Pasal 34", "Pasal 35", "Pasal 36"],
     "correctAnswer": 0,
-    "explanation": "Penulisan kata 'swasembada' adalah gabungan kata yang ditulis serangkai."
+    "explanation": "Negara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional diatur dalam UUD 1945 Pasal 32."
   },
   {
     "id": 41,
-    "question": "Contoh kalimat efektif di bawah ini adalah…",
+    "question": "Menurut pasal 34 UUD 1945, fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak harus disediakan oleh",
     "options": [
-      "Saudara tinggal membubuhkan tanda tangan pada surat tersebut.",
-      "Saudara tinggal mencantumkan tanda tangan pada surat tersebut.",
-      "Saudara tinggal menandatangani surat tersebut.",
-      "Saudara tinggal menandatangankan surat tersebut."
+      "Pemerintah",
+      "Menteri kesehatan",
+      "Negara",
+      "Departemen kesehatan",
+      "Ikatan dokter indonesia"
     ],
     "correctAnswer": 2,
-    "explanation": "Kalimat 'Saudara tinggal menandatangani surat tersebut' adalah kalimat yang paling ringkas dan efektif."
+    "explanation": "Menurut Pasal 34 UUD 1945, 'Negara bertanggung jawab atas penyediaan fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak.'"
   },
   {
     "id": 42,
-    "question": "Sebagian produk-produk industri dalam negeri khususnya dalam barang kebutuhan sehari-hari kurang laku dipasaran, masyarakat lebih menyukai produk luar negeri karena kualitasnya lebih baik. Kalimat yang tepat untuk mewakili pernyataan di atas adalah ….",
-    "options": [
-      "Jumlah barang yang dijual dikurangi karena barang karena barang tersebut tidak laku di pasaran",
-      "Barang-barang kebutuhan sehari-hari perlu diproduksi karena diperlukan.",
-      "Kualitas barang harus ditingkatkan karena konsumen lebih senang barang yang bermutu.",
-      "Produksi dalam negeri dijual murah karena dengan harga murah barang cepat habis."
-    ],
+    "question": "Perubahan UUD diatur dalam pasal",
+    "options": ["Pasal 35", "Pasal 36", "Pasal 37", "Pasal 38", "Pasal 39"],
     "correctAnswer": 2,
-    "explanation": "Pernyataan di atas menyiratkan bahwa kualitas produk dalam negeri perlu ditingkatkan agar bisa bersaing dengan produk luar negeri."
+    "explanation": "Perubahan Undang-Undang Dasar diatur dalam UUD 1945 Pasal 37."
   },
   {
     "id": 43,
-    "question": "Pada era global, sumber daya manusia (SDM) andai merupakan kebutuham yang mendasar. Usaha untuk mendapatkan (SDM) andal dapat dilakukan melalui berbagai cara misalnya melalui penataran, pelatihan, kursus, lokakarya, seminar atau kegiatan sejenis, cara yang efektif untuk menghasilkan SDM andal yaitu melalui jalur pendidikan dengan mengikuti pendidikan tertentu. Seseorang dapat belajar berdasarkan kurikulum yang terprogaram dan hari efektif yang pasti. Simpulan tersirat dari paragraf tersebut adalah…..",
+    "question": "Syarat mengubah UUD, sidang MPR harus dihadiri oleh setidaknya",
     "options": [
-      "Pada era global, sumber daya manusia (SDM) andai merupakan kebutuham yang mendasar.",
-      "Jalur pendidikan dianggap lebih efectif untuk menghasilkan SDM andal.",
-      "SDM andal dapat dilakukan melalui berbagai cara antara cara pendidikan dan  pelatihan.",
-      "SDM yang andal menjadi kebutuhan mendasar bagi setipa negara baik negara maju dan berkembang."
+      "2/3 dari jumlah anggota MPR",
+      "1/3 dari jumlah anggota MPR",
+      "2/5 dari jumlah anggota MPR",
+      "1/4 dari jumlah anggota MPR",
+      "2/4 dari jumlah anggota MPR"
     ],
-    "correctAnswer": 1,
-    "explanation": "Paragraf tersebut secara implisit menyimpulkan bahwa jalur pendidikan adalah cara paling efektif untuk menghasilkan SDM yang andal, meskipun ada cara lain."
+    "correctAnswer": 0,
+    "explanation": "Untuk mengubah UUD, sidang MPR harus dihadiri oleh sekurang-kurangnya 2/3 dari jumlah anggota MPR, ini diatur dalam UUD 1945 Pasal 37 ayat 1."
   },
   {
     "id": 44,
-    "question": "Kalimat yang menggunakan kata tidak baku adalah…",
-    "options": [
-      "Indonesia terus bekerja keras untuk memajukan teknologinya.",
-      "Penulis sudah mengkaji hasil penelitiannya dengan seksama.",
-      "Indonesia belum juga menemukan langkah konkret untuk mengatasi masalah pengangguran.",
-      "Untuk menjaga kedaulatannya, Indonesia menambah kuantitas Armada di Kawasan Ambalat."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kata 'mengkaji' tidak baku, seharusnya menggunakan kata 'mengaji'."
+    "question": "Syarat pengubahan pasal-pasal UUD haruslah disetujui oleh MPR minimal sejumlah",
+    "options": ["51 persen", "50 persen", "Kurang lebih 50 persen", "50 persen plus 1", "51 persen plus 1"],
+    "correctAnswer": 3,
+    "explanation": "Syarat pengubahan pasal-pasal UUD haruslah disetujui oleh MPR minimal sejumlah 50 persen ditambah 1 (satu) dari seluruh anggota. Ini diatur dalam UUD 1945 Pasal 37 ayat 3."
   },
   {
     "id": 45,
-    "question": "Perhatikan dengan seksama kalimat-kalimat berikut. 1. Belum banyak yang mengakui bahwa prestasi anak yang lambat belajar dapat melebihi anak berprestasi asalkan mereka diberi kesempatan belajar menurut cara mereka sendiri. 2. Sekolah hanya mengenalkan satu varisai cara belajar yaitu cara belajar yang dianggap benar dan baik oleh guru. 3. Sangat sedikit pakar pendidikan yang mengakui bahwa anak-anak yang lambat belajar dalam prestasi. 4. Sampai saat ini perhatian hanya tertuju kepada anak-anak berprestasi. Susunan yang padu paragraf tersebut adalah…..",
-    "options": [
-      "(1)-(2)-(4)-(3)",
-      "(2)-(3)-(1)-(4)",
-      "(3)-(4)-(2)-(2)",
-      "(4)-(1)-(3)-(2)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Urutan yang paling logis adalah (4) perhatian hanya tertuju pada anak berprestasi, (1) belum banyak yang mengakui potensi anak lambat belajar, (3) sedikit pakar yang mengakui hal tersebut, dan (2) sekolah hanya mengenalkan satu cara belajar."
+    "question": "Bangsa Indonesia bertekad untuk menentang setiap bentuk penjajahan. Hal ini tertuang dalam Pembukaan UUD 1945",
+    "options": ["Alinea 1", "Alinea 2", "Alinea 3", "Alinea 4", "Alinea 5"],
+    "correctAnswer": 0,
+    "explanation": "Tekad bangsa Indonesia untuk menentang penjajahan tertuang dalam Pembukaan UUD 1945 Alinea 1."
   },
   {
     "id": 46,
-    "question": "Cermati teks pidato berikut Hadirin yang berbahagia, Bencana alam terjadi dimana-mana sehingga sangat merugikan bagi manusia dan alam sekitarnya. Kita kehilangan harta benda ataupun orang-orang yang kita sayangi. Mengapa bencana alam terjadi? Apakah karena ulah manusia sendiri yang mulai kurang peduli dengan lingkungan? Hutan digunduli tanpa perhitungan, pohon-pohon dijarah oleh manusia serakah, sampah dibuang di saluran-saluran air. Pembangunan dilakukan tanpa memperhatikan lingkungan. Kita tidak ingin bencana alam terjadi lagi .... Kalimat imbuhan untuk melengkapi teks pidato tersebut adalah ....",
+    "question": "Pembukaan UUD 1945 alinea keempat memuat tujuan bangsa Indonesia seperti berikut ini, kecuali :",
     "options": [
-      "Marilah kita jaga lingkungan kita dengan bersikap lebih bijak dan peduli terhadap alam di sekitar kita.",
-      "Jangan mengulang sikap-sikap yang tidak terpuji karena kita tidak ingin bencana terulang lagi.",
-      "Sebaiknya kita bersatu padu menjaga dan melestarikan kekayaan bangsa dan tanah air kita.",
-      "Lingkungan harus dijaga dengan baik sehingga akan memberikan manfaat kepada kita."
+      "Melindungi bangsa dan tanah air",
+      "Memajukan kesejahteraan umum",
+      "Mencerdaskan kehidupan bangsa",
+      "Ikut melaksanakan ketertiban dunia",
+      "Turut melindungi stabilitas kawasan"
     ],
-    "correctAnswer": 0,
-    "explanation": "Kalimat penutup yang paling tepat untuk pidato tentang bencana alam akibat ulah manusia adalah ajakan untuk menjaga lingkungan dengan bijak dan peduli."
+    "correctAnswer": 4,
+    "explanation": "Tujuan bangsa Indonesia yang termuat dalam Pembukaan UUD 1945 Alinea keempat adalah melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi dan keadilan sosial. 'Turut melindungi stabilitas kawasan' tidak termasuk."
   },
   {
     "id": 47,
-    "question": "Penyebab kecelakaan lalu lintas di jalan raya terutama kesalahan para pengemudi biasa kurang sabar. Mereka sering mengebut dan ingin mendahului. Mengantuk juga sering menjadi penyebab kecelakaan. Jarak yang ditempuh kendaraan terlalu jauh akan mengakibatkan sopir lelah dan mengantuk sehingga mudah tabrakan dengan kendaraan lain. Kalimat tanggapan yang sesuai dengan isi paragraf tersebut adalah…..",
-    "options": [
-      "Jarak terlalu jauh mengakibatkan pengemudi kurang sabar.",
-      "Bila sopir berhati-hati , kecelakaan tidak mudah terjadi.",
-      "Para pengemudi biasanya mengebut dan mendahului.",
-      "Tabrakan terjadi karena sering mengantuk pengemudi."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Paragraf tersebut membahas penyebab kecelakaan, jadi tanggapan yang relevan adalah solusi untuk mencegahnya, yaitu dengan berhati-hati."
+    "question": "Aturan peralihan UUD 1945 pasal III amandemen keempat tahun 2002, menyatakan bahwa Mahkamah Konstitusi harus dibentuk selambat-lambatnya tanggal 17 Agustus 2003 dan sebelum itu, tugas Mahkamah Konstitusi sementara diemban oleh",
+    "options": ["Komisi Yudisial", "Hakim Agung", "Jaksa Agung", "Mahkamah Agung", "DPR"],
+    "correctAnswer": 3,
+    "explanation": "Sebelum terbentuknya Mahkamah Konstitusi, tugasnya sementara diemban oleh Mahkamah Agung. Hal ini diatur dalam Aturan Peralihan Pasal III UUD 1945 Amandemen Keempat."
   },
   {
     "id": 48,
-    "question": "Sebagian produk-produk industri dalam negeri khususnya dalam barang kebutuhan sehari-hari kurang laku dipasaran, masyarakat lebih menyukai produk luar negeri karena kualitasnya lebih baik. Tanggapan logis terhadap pernyataan di atas yaitu.",
+    "question": "Kedudukan UUD 1945 adalah sebagaimana yang dijelaskan di bawah ini, kecuali :",
     "options": [
-      "Jumlah barang yang dijual dikurangi karena barang karena barang tersebut tidak laku di pasaran.",
-      "Barang-barang kebutuhan sehari-hari perlu diproduksi karena diperlukan.",
-      "Kualitas barang harus ditingkatkan karena telah ditingkatkan karena konsumen lebih senang barang yang bermutu.",
-      "Produksi dalam negeri dijual murah karena dengan harga murah barang cepat habis."
+      "Hukum dasar yang tertulis yang berlaku di Indonesia",
+      "Sumber hukum tertulis tertinggi yang berlaku di Indonesia",
+      "Konstitusi yang berlaku di Indonesia sejak 5 Juli 1959",
+      "Satu-satunya hukum dasar yang berlaku di Indonesia",
+      "Sebagian hukum dasar yang berlaku di Indonesia"
     ],
-    "correctAnswer": 2,
-    "explanation": "Tanggapan logis terhadap masalah kurang lakunya produk dalam negeri karena kualitasnya adalah dengan meningkatkan kualitas produk tersebut."
+    "correctAnswer": 3,
+    "explanation": "UUD 1945 bukan satu-satunya hukum dasar yang berlaku di Indonesia, karena masih ada hukum dasar tidak tertulis (konvensi). UUD 1945 adalah hukum dasar tertulis tertinggi, dan konstitusi yang berlaku sejak Dekrit Presiden 5 Juli 1959 (kembali ke UUD 1945)."
   },
   {
     "id": 49,
-    "question": "Perhatikan dengan seksama kalimat-kalimat berikut. 1. Sebagai seorang sastrawan, pekerjaan Djenar Mahesa Ayu menulis novel atau cerita pendek. 2. Dari karya tersebut tentu pembaca memperoleh berbagai manfaat. 3. Penyajian pesan penulis sastra halus dan sopan. 4. Hasil penulisannya jarang menimbulkan hal-hal yang berbau SARA. Kalimat fakta ditandai dengan no…..",
+    "question": "Dalam kurun waktu 1945-1949 UUD 1945 belum dapat dilaksanakan dengan baik karena bangsa Indonesia masih sibuk dengan peperangan. Maka tugas legislatif diserahkan kepada KNIP melalui",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Maklumat Wakil Presiden no. I",
+      "Maklumat Wakil Presiden no. II",
+      "Maklumat Wakil Presiden no. III",
+      "Maklumat Wakil Presiden no. IX",
+      "Maklumat Wakil Presiden no. X"
     ],
-    "correctAnswer": 0,
-    "explanation": "Kalimat nomor 1 adalah fakta yang dapat diverifikasi, yaitu pekerjaan Djenar Mahesa Ayu sebagai sastrawan yang menulis novel dan cerpen."
+    "correctAnswer": 4,
+    "explanation": "Dalam kurun waktu 1945-1949, tugas legislatif diserahkan kepada KNIP melalui Maklumat Wakil Presiden No. X."
   },
   {
     "id": 50,
-    "question": "Dua minggu setelah telegram dari Imam datang pula wesel dan surat dari Santo, ibu sangat bangga sampai meneneskan air mata bahagia ibu menyatakan pada anak-anak nya agar tetap hidup seperti apa yang dilakukan selama ini.  Jangan congkaka karena kakak mereka banyak membantu. Pesan atau amanat yang terkandung dalam cuplikan cerpen tersebut adalah…..",
+    "question": "Manipol USDEK Presiden Soekarno adalah kepanjangan dari",
     "options": [
-      "Hidup ini hendaknya penuh prihatin dan dijalani apa adanya.",
-      "Dalam hidup ini harus menunjukan kemampuan pada oranag lai .",
-      "Dalam memberikan bantuan harus iklas",
-      "Hendaknya tetap hidup dalam kesederhanaan."
+      "UUD 45, Sosialisme Terpimpin, Demokrasi Terpimpin, Ekonomi Terpimpin, Kepribadian Indonesia",
+      "UUD 45, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, Kepribadian Indonesia",
+      "UUD 45, Sosialisme Terpimpin, Demokrasi Terpimpin, Ekonomi Terpimpin, Kebangsaan Indonesia",
+      "UUD 45, Sosialisme, Demokrasi Terpimpin, Ekonomi, Kepribadian Indonesia",
+      "UUD 45, Sosialisme, Demokrasi, Ekonomi, Kepribadian Indonesia"
     ],
-    "correctAnswer": 3,
-    "explanation": "Amanat dari cuplikan cerpen tersebut adalah untuk tetap hidup sederhana dan tidak sombong meskipun mendapat bantuan dari orang lain."
+    "correctAnswer": 0,
+    "explanation": "Manipol USDEK adalah singkatan dari Manifestasi Politik Undang-Undang Dasar 1945, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, dan Kepribadian Indonesia."
   },
   {
     "id": 51,
-    "question": "Yang dimaksud dengan pemerintah daerah menurut Undang-Undang Nomor 23 Tahun 2014 adalah ....",
+    "question": "Isi UUD 45 telah diamandemen beberapa kali. Namun demikian, Pembukaan UUD 45 tidak boleh diamandemen. Kenapa ?",
     "options": [
-      "Gubernur, Bupati/Walikota, dan Perangkat Daerah sebagai unsur penyelenggara pemerintah daerah.",
-      "DPRD.",
-      "DPRD dan penegak hukum.",
-      "Bupati dan DPRD."
+      "Karena tidak sesuai dengan Kesepakatan para pendiri bangsa",
+      "Karena Pembukaan UUD 45 berisi dasar Negara, dan merupakan kelangsungan hidup dan sejarah bangsa",
+      "Karena teramat penting untuk diubah",
+      "Karena belum ada Perpu mengenai hal itu",
+      "Pilihan diatas salah semua, karena pembukaan UUD boleh diubah."
     ],
-    "correctAnswer": 0,
-    "explanation": "Berdasarkan UU No. 23 Tahun 2014, Pemerintah Daerah terdiri dari kepala daerah dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah."
+    "correctAnswer": 1,
+    "explanation": "Pembukaan UUD 1945 tidak boleh diamandemen karena berisi dasar negara (Pancasila), cita-cita proklamasi, dan merupakan kelangsungan hidup serta sejarah bangsa Indonesia."
   },
   {
     "id": 52,
-    "question": "Aturan tentang Pemerintah Daerah termaktub dalam",
+    "question": "Apa yang dimaksud dengan pengertian Pancasila secara etimologis ?",
     "options": [
-      "Pasal  16 UUD 1945",
-      "Pasal  18 UUD 1945",
-      "Pasal 17 UUD 1945",
-      "Pasal 19 UUD 1945"
+      "Artinya dasar yang memiliki lima sendi",
+      "Artinya lima pengertian pokok",
+      "Artinya lima yang utama",
+      "Artinya lima tata laku",
+      "Artinya lima keutamaan"
     ],
-    "correctAnswer": 1,
-    "explanation": "Pasal 18 UUD 1945 mengatur mengenai pemerintahan daerah, termasuk pembagian daerah, otonomi daerah, dan bentuk pemerintahan daerah."
+    "correctAnswer": 0,
+    "explanation": "Secara etimologis, 'Pancasila' berasal dari bahasa Sanskerta yang berarti 'lima dasar' atau 'lima sendi'."
   },
   {
     "id": 53,
-    "question": "Peraturan Daerah ditetapkan oleh Kepala Daerah setelah mendapatkan persetujuan bersama ....",
-    "options": [
-      "Pengadilan Negeri",
-      "Pengadilan Agama",
-      "Kejaksaan",
-      "DPRD"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Peraturan Daerah (Perda) ditetapkan oleh Kepala Daerah bersama dengan Dewan Perwakilan Rakyat Daerah (DPRD) di tingkat provinsi, kabupaten, atau kota."
+    "question": "Berasal dari bahasa apakah istilah \"Pancasila\" ?",
+    "options": ["Hierogliph", "Sansekerta", "Prapanca", "Kertajaya", "Negarakertagama"],
+    "correctAnswer": 1,
+    "explanation": "Istilah 'Pancasila' berasal dari bahasa Sanskerta."
   },
   {
     "id": 54,
-    "question": "Hak, wewenang, dan kewajiban daerah otonom untuk mengatur dan mengurus sendiri urusan pemerintahan dan kepentingan masyarakat setempat sesuai dengan peraturan perundang-undangan, merupakan pengertian dari ....",
-    "options": [
-      "Desentralisasi",
-      "Otonomi Daerah",
-      "Dekonsentrasi",
-      "Tugas Pembantuan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Definisi tersebut adalah pengertian dari Otonomi Daerah, yaitu hak dan kewajiban daerah untuk mengatur dan mengurus sendiri urusan pemerintahannya."
+    "question": "Istilah \"Pancasila\" ditemukan pada jaman kerajaan Majapahit, yaitu berada dalam kitab",
+    "options": ["Baratayudha", "Prapanca", "Centhini", "Sutasoma", "Negarakertagama"],
+    "correctAnswer": 3,
+    "explanation": "Istilah 'Pancasila' ditemukan dalam Kitab Sutasoma karangan Empu Tantular pada zaman Kerajaan Majapahit."
   },
   {
     "id": 55,
-    "question": "Hak DPRD untuk membentuk/menetapkan Perda merupakan hak yang berhubungan dengan fungsi ....",
+    "question": "Kitab Negarakertagama yang memuat istilah Pancasila ditulis pada tahun 1365 oleh",
     "options": [
-      "Legislasi",
-      "Anggaran",
-      "Pengawasan",
-      "Imunitas"
+      "Empu Sendok",
+      "Empu Gandring",
+      "Empu Prapanca",
+      "Empu Sakapalwaguna",
+      "Empu Ranggawarsita"
     ],
-    "correctAnswer": 0,
-    "explanation": "Hak DPRD untuk membentuk dan menetapkan Perda merupakan bagian dari fungsi legislasi, yaitu fungsi pembuatan peraturan."
+    "correctAnswer": 2,
+    "explanation": "Kitab Negarakertagama ditulis pada tahun 1365 oleh Empu Prapanca."
   },
   {
     "id": 56,
-    "question": "Kewenangan daerah merupakan kewenangan dalam seluruh bidang pemerintahan, kecuali kewenangan dalam bidang ....",
-    "options": [
-      "Pertanian dan kesehatan",
-      "Pendidikan dan kebudayaan",
-      "Moneter dan fiskal",
-      "Perdagangan dan penanaman modal"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kewenangan dalam bidang moneter dan fiskal nasional merupakan urusan pemerintah pusat, bukan daerah."
+    "question": "Istilah \"Bhinneka Tunggal Ika\" terdapat dalam kitab",
+    "options": ["Sutasoma", "Bratasena", "Bramastya", "Negarakertagama", "Ramayana"],
+    "correctAnswer": 0,
+    "explanation": "Istilah 'Bhinneka Tunggal Ika' terdapat dalam Kitab Sutasoma."
   },
   {
     "id": 57,
-    "question": "Berikut ini termasuk urusan yang menjadi kewenangan pemerintah pusat, yaitu ....",
-    "options": [
-      "Politik luar negeri",
-      "Perbaikan jalan desa",
-      "Kerjasama antardaerah ",
-      "Pembuatan saluran irigasi daerah"
-    ],
+    "question": "Kitab Sutasoma ditulis oleh",
+    "options": ["Empu Tantular", "Empu Charaka", "Empu Prapanca", "Empu Sudarma", "Empu Laksmana"],
     "correctAnswer": 0,
-    "explanation": "Urusan politik luar negeri adalah kewenangan mutlak pemerintah pusat, sementara urusan lainnya dapat menjadi kewenangan daerah."
+    "explanation": "Kitab Sutasoma ditulis oleh Empu Tantular."
   },
   {
     "id": 58,
-    "question": "Penugasan dari  pemerintah  pusat kepada daerah untuk melaksanakan tugas tertentu disebut",
+    "question": "Dalam konstitusi RIS (Republik Indonesia Serikat), yang berlaku tanggal 29 Desember 1949 sampai dengan 17 Agustus 1950 tercantum rumusan Pancasila. Sebutkan isi rumusan Pancasila dalam konstitusi RIS tersebut",
     "options": [
-      "Tugas Pembantuan",
-      "Dekonsentrasi",
-      "Desentralisasi",
-      "Sentralisasi"
+      "Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial",
+      "Ketuhanan, Peri Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial",
+      "Ketuhanan, Kemanusiaan, Persatuan Indonesia, Kerakyatan, Keadilan Sosial",
+      "Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan",
+      "Ketuhanan Yang Maha Esa, Peri Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial"
     ],
     "correctAnswer": 0,
-    "explanation": "Tugas Pembantuan adalah penugasan dari pemerintah pusat kepada daerah atau desa untuk melaksanakan tugas-tugas tertentu dengan pembiayaan dari pemerintah pusat."
+    "explanation": "Rumusan Pancasila dalam Konstitusi RIS (29 Desember 1949 - 17 Agustus 1950) adalah: Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial."
   },
   {
     "id": 59,
-    "question": "Dalam kedudukanya sebagai wakil pemerintah, Gubernur berada di bawah dan bertanggung jawab kepada ....",
+    "question": "Rumusan Pancasila yang terdapat dalam konstitusi RIS juga tercantum sama persis dalam",
     "options": [
-      "DPRD Provinsi",
-      "DPR RI",
-      "Presiden",
-      "MPR"
+      "UUDS 1950. Berlaku tanggal 17 Agustus 1950 – 5 Juli 1959",
+      "UUD 1950. Berlaku tanggal 17 Agustus 1950 – 5 Juli 1959",
+      "UUD 1945. Berlaku tanggal 17 Agustus 1950 – 5 Juli 1959",
+      "UUDS 1950. Berlaku tanggal 18 Agustus 1950 – 5 Juli 1959",
+      "UUDS 1950. Berlaku tanggal 20 Agustus 1950 – 5 Juli 1959"
     ],
-    "correctAnswer": 2,
-    "explanation": "Sebagai wakil pemerintah pusat di daerah, Gubernur bertanggung jawab kepada Presiden."
+    "correctAnswer": 0,
+    "explanation": "Rumusan Pancasila dalam Konstitusi RIS sama persis dengan yang tercantum dalam UUDS 1950 (Undang-Undang Dasar Sementara 1950), yang berlaku dari 17 Agustus 1950 hingga 5 Juli 1959."
   },
   {
     "id": 60,
-    "question": "Perimbangan keuangan pusat dan daerah diatur dalam ....",
+    "question": "Rumusan Pancasila yang sah dan benar (baik pengucapan maupun penulisan) terdapat dalam",
     "options": [
-      "UU No. 30 Tahun 2004",
-      "UU No. 31 Tahun 2004",
-      "UU No. 32 Tahun 2004",
-      "UU No. 33 Tahun 2004"
+      "Pembukaan UUD 1945",
+      "Inpres No.12 tanggal 13 April 1968",
+      "TAP MRPS no. XX/MPRS/1966",
+      "Kesepakatan seluruh bangsa Indonesia dalam Sumpah Pemuda 28 Oktober 1928",
+      "UUDS 1950"
     ],
-    "correctAnswer": 3,
-    "explanation": "Perimbangan keuangan antara pemerintah pusat dan daerah diatur dalam Undang-Undang Nomor 33 Tahun 2004."
+    "correctAnswer": 0,
+    "explanation": "Rumusan Pancasila yang sah dan benar (baik pengucapan maupun penulisan) terdapat dalam Pembukaan UUD 1945."
   },
   {
     "id": 61,
-    "question": "Pemerintahan daerah provinsi dipimpin oleh ....",
+    "question": "Berikut ini yang tidak termasuk dalam isi Dekrit Presiden 5 Juli 1959 adalah",
     "options": [
-      "Gubernur",
-      "Walikota",
-      "Bupati",
-      "DPRD"
+      "Membubarkan konstituante",
+      "Menetapkan berlakunya kembali UUD 1945",
+      "Tidak berlakunya lagi UUDS 1950",
+      "Dibentuknya MPRS dan DPAS dalam waktu sesingkat- singkatnya",
+      "Pembentukan Dewan Penasihat Presiden"
     ],
-    "correctAnswer": 0,
-    "explanation": "Gubernur adalah kepala daerah provinsi yang memimpin penyelenggaraan pemerintahan daerah provinsi."
+    "correctAnswer": 4,
+    "explanation": "Pembentukan Dewan Penasihat Presiden tidak termasuk dalam isi Dekrit Presiden 5 Juli 1959. Isi dekrit tersebut adalah: pembubaran Konstituante, diberlakukannya kembali UUD 1945 dan tidak berlakunya UUDS 1950, serta pembentukan MPRS dan DPAS dalam waktu sesingkat-singkatnya."
   },
   {
     "id": 62,
-    "question": "Termasuk bagian dari pemerintah pusat ....",
+    "question": "Mengapa Pancasila disebut suatu kesatuan yang majemuk tunggal. Apa maksudnya ?",
     "options": [
-      "DPRD",
-      "Menteri Negara",
-      "DPD",
-      "MPR"
+      "Artinya seluruh lima sila yang ada adalah satu kesatuan yang utuh",
+      "Pancasila itu satu tapi banyak",
+      "Pancasila itu banyak",
+      "Pancasila itu tetap tunggal dan Satu",
+      "Pancasila itu kaya akan arti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Menteri Negara adalah bagian dari kabinet yang membantu Presiden dalam menjalankan roda pemerintahan pusat."
+    "correctAnswer": 0,
+    "explanation": "Pancasila disebut kesatuan yang majemuk tunggal karena seluruh lima sila yang ada adalah satu kesatuan yang utuh, tidak dapat dipisahkan satu sama lain."
   },
   {
     "id": 63,
-    "question": "Perangkat pemerintahan daerah dipilih dengan ....",
+    "question": "Apa konsekuensi dari Pancasila sebagai kesatuan majemuk tunggal ?",
     "options": [
-      "Pemilu",
-      "Langsung oleh rakyat daerah",
-      "Pilkada",
-      "Sistem perwakilan"
+      "Semua sila tak dapat berdiri sendiri tapi dapat berselisih",
+      "Semua sila dapat berdiri sendiri tapi tak dapat berselisih",
+      "Semua sila tak dapat berdiri sendiri dan tak dapat berselisih",
+      "Setiap sila haruslah mampu mandiri dan berdiri sendiri",
+      "Setiap sila harus berdiri sendiri maupun bersama-sama"
     ],
     "correctAnswer": 2,
-    "explanation": "Kepala daerah (Gubernur, Bupati, Walikota) dipilih melalui Pilkada atau Pemilihan Kepala Daerah."
+    "explanation": "Konsekuensi dari Pancasila sebagai kesatuan majemuk tunggal adalah semua sila tidak dapat berdiri sendiri dan tidak dapat berselisih, melainkan saling terkait dan membentuk satu kesatuan yang utuh."
   },
   {
     "id": 64,
-    "question": "Bupati dan/atau Wakil Bupati diberhentikan sementara tanpa melalui usulan DPRD karena didakwa melakukan beberapa tindakan pidana berikut ini, kecuali ....",
+    "question": "Pernyataan yang benar mengenai rumusan Pancasila sebagai hierarki Piramidal adalah",
     "options": [
-      "Tindak pidana korupsi",
-      "Tindak pidana terorisme",
-      "Tindak pidana pembunuhan",
-      "Tindak pidana makar dan/atau tindak pidana terhadap keamanan negara"
+      "Sila V meliputi sila IV, III, II dan I",
+      "Sila IV meliputi sila V dan I",
+      "Sila II meliputi sila I dan III",
+      "Sila I meliputi sila II, III, IV, dan V",
+      "Sila IV meliputi sila III"
     ],
-    "correctAnswer": 2,
-    "explanation": "Tindak pidana pembunuhan tidak termasuk dalam kategori tindakan pidana yang dapat menyebabkan pemberhentian sementara kepala daerah tanpa usulan DPRD."
+    "correctAnswer": 3,
+    "explanation": "Dalam hierarki piramidal Pancasila, Sila I (Ketuhanan Yang Maha Esa) mendasari, menjiwai, dan meliputi sila-sila berikutnya, yaitu sila II, III, IV, dan V. Dan seterusnya, sila-sila di bawahnya dijiwai oleh sila di atasnya."
   },
   {
     "id": 65,
-    "question": "Apabila kepala daerah sedang menjalani masa tahanan atau berhalangan sementara dan tidak ada wakil kepala daerah, maka pelaksana tugas harian kepala daerah adalah ....",
+    "question": "Masing-masing sila Pancasila bersifat saling mengisi dan mengkualifikasi, apa artinya ?",
     "options": [
-      "Ketua DPRD",
-      "Sekretaris Daerah",
-      "Kepala Bidang Tata Pemerintahan",
-      "Camat yang ditunjuk"
+      "Dalam setiap sila terkandung empat sila lainnya",
+      "Dalam setiap sila ada sila lain yang mengkoreksi",
+      "Setiap sila harus selalu diseimbangkan dengan sila lain",
+      "Sila satu terhadap sila lainnya haruslah bersatu",
+      "Sila satu harus mampu meningkatkan nilai tambah sila lainnya"
     ],
-    "correctAnswer": 1,
-    "explanation": "Dalam kondisi tersebut, Sekretaris Daerah (Sekda) akan ditunjuk sebagai pelaksana tugas harian kepala daerah."
+    "correctAnswer": 0,
+    "explanation": "Sifat saling mengisi dan mengkualifikasi dalam Pancasila berarti dalam setiap sila terkandung empat sila lainnya."
   },
   {
     "id": 66,
-    "question": "Camat dalam menjalankan tugas-tugasnya bertanggung jawab kepada ....",
+    "question": "Apa yang dimaksud dengan Pancasila sebagai satu kesatuan formal logis ?",
     "options": [
-      "Bupati melalui Sekda",
-      "Sekda melalui asisten pemerintahan",
-      "Kepala Badan Pemberdayaan Masyarakat dan Desa",
-      "Bupati melalui Wakil Bupati"
+      "Kesatuan sila-sila Pancasila bersifat hierarkis piramidal yang menggambarkan hubungan luas",
+      "Pancasila memiliki sila-sila yang masuk akal isinya",
+      "Pancasila memiliki sila-sila yang tidak bertentangan",
+      "Pancasila bersifat formal resmi",
+      "Pancasila membentuk kesatuan yang masuk akal"
     ],
     "correctAnswer": 0,
-    "explanation": "Camat bertanggung jawab langsung kepada Bupati/Walikota melalui Sekretaris Daerah (Sekda)."
+    "explanation": "Pancasila sebagai satu kesatuan formal logis berarti kesatuan sila-sila Pancasila bersifat hierarkis piramidal yang menggambarkan hubungan luas dan konsisten secara logis."
   },
   {
     "id": 67,
-    "question": "Daerah berhak menetapkan kebijakan daerah untuk menyelenggarakan urusan pemerintahan yang menjadi kewenangan daerah. Dalam menetapkan kebijakan daerah, Pemerintah Daerah wajib berpedoman kepada ....",
+    "question": "Apa yang menjadi dasar ontologis atau dasar antropologis dari Pancasila ?",
     "options": [
-      "Norma, standar, prosedur, dan kriteria yang telah ditetapkan oleh Pemerintah Pusat.",
-      "Peraturan Daerah.",
-      "Peraturan Pemerintah.",
-      "Peraturan Perundang-undangan lainya."
+      "Yaitu manusia yang bersifat makhluk sosial",
+      "Yaitu manusia yang bersifat makhluk egois",
+      "Yaitu manusia yang bersifat makhluk monopluralis",
+      "Yaitu manusia yang bersifat makhluk mandiri",
+      "Yaitu manusia yang bersifat makhluk komunal"
     ],
-    "correctAnswer": 0,
-    "explanation": "Pemerintah Daerah harus berpedoman pada Norma, Standar, Prosedur, dan Kriteria (NSPK) yang ditetapkan oleh Pemerintah Pusat."
+    "correctAnswer": 2,
+    "explanation": "Dasar ontologis atau dasar antropologis dari Pancasila adalah manusia yang bersifat monopluralis, yaitu makhluk individu dan sekaligus makhluk sosial."
   },
   {
     "id": 68,
-    "question": "Yang bukan merupakan asas penyelenggaraan pemerintahan daerah adalah ....",
+    "question": "Sebagai suatu ideologi, Pancasila memiliki tiga unsur pokok. Yaitu",
     "options": [
-      "Kepastian hukum",
-      "Efisiensi",
-      "Kolektifitas",
-      "Keadilan"
+      "Logos, Etika, Knowing",
+      "Panthos, Ethos, Logos",
+      "Ethic, Logika, Pengetahuan",
+      "Moral, Pengetahuan, Interaksi sosial",
+      "Moral, Logika, Emosi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Asas penyelenggaraan pemerintahan daerah antara lain adalah kepastian hukum, tertib penyelenggaraan negara, kepentingan umum, keterbukaan, proporsionalitas, profesionalitas, akuntabilitas, efisiensi, efektivitas, dan keadilan. Kolektifitas bukan termasuk di dalamnya."
+    "correctAnswer": 1,
+    "explanation": "Sebagai suatu ideologi, Pancasila memiliki tiga unsur pokok, yaitu Panthos (penghayatan), Ethos (etika/moral), dan Logos (rasionalitas/wawasan)."
   },
   {
     "id": 69,
-    "question": "Rancangan Peraturan Daerah yang telah disiapkan oleh Gubernur/Bupati/Walikota disampaikan dengan surat pengantar Gubernur/Bupati/Walikota kepada DPRD, selamjutnya disebarluaskan oleh ....",
-    "options": [
-      "Sekretariat DPRD",
-      "Sekretariat Daerah",
-      "Pimpinan DPRD",
-      "Gubernur/Bupati/Walikota"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Setelah rancangan Perda diterima oleh DPRD, Sekretariat DPRD bertanggung jawab untuk menyebarluaskan kepada seluruh anggota DPRD."
+    "question": "Apakah makna dari \"Panthos\" ?",
+    "options": ["Kesusilaan", "Kepantasan", "Etika", "Penghayatan", "Keberanian"],
+    "correctAnswer": 3,
+    "explanation": "Makna dari 'Panthos' adalah **penghayatan**."
   },
   {
     "id": 70,
-    "question": "Rancangan peraturan daerah yang telah disetujui bersama oleh DPRD dan Gubernur  / Bupati / Walikota disampaikan kepada Gubernur/Bupati/Walikota oleh",
-    "options": [
-      "Sekretariat DPRD",
-      "Sekretariat Daerah",
-      "Pimpinan DPRD",
-      "Gubernur/Bupati/Walikota"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Rancangan Perda yang telah disetujui bersama disampaikan oleh pimpinan DPRD kepada kepala daerah untuk ditetapkan."
+    "question": "Apakah makna dari \"Ethos\" ?",
+    "options": ["Kesusilaan", "Kepantasan", "Norma", "Penghayatan", "Kebersahajaan"],
+    "correctAnswer": 0,
+    "explanation": "Makna dari 'Ethos' adalah **kesusilaan** atau etika/moral."
   },
   {
     "id": 71,
-    "question": "Agar setiap orang mengetahui Peraturan Daerah yang telah disahkan, maka Peraturan Daerah tersebut diundangkan dengan menempatkanya dalam",
-    "options": [
-      "Berita negara dan lembaran negara",
-      "Berita daerah dan lembaran negara",
-      "Berita negara dan lembaran daerah",
-      "Berita daerah dan lembaran daerah"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Peraturan Daerah diundangkan dalam Lembaran Daerah dan Berita Daerah agar dapat diketahui oleh masyarakat umum."
+    "question": "Apakah makna dari \"Logos\" ?",
+    "options": ["Wawasan", "Rasionalitas", "Keberanian", "Filsafat", "Ideologi"],
+    "correctAnswer": 1,
+    "explanation": "Makna dari 'Logos' adalah **rasionalitas** atau wawasan/pengetahuan."
   },
   {
     "id": 72,
-    "question": "Daerah sesuai dengan kewenangannya menyusun rencana pembangunan daerah sebagai satu kesatuan dalam sistem perencanaan pembangunan nasional. Dokumen rencana pembangunan daerah terdiri atas RPJPD, RPJMD, dan RKPD. RKPD merupakan penjabaran dari RPJMD yang memuat rancangan kerangka ekonomi daerah, prioritas pembangunan daerah, serta rencana kerja dan pendanaan untuk jangka waktu ....",
+    "question": "Bangsa Indonesia adalah causa materialis Pancasila. Apa makna dari istilah tersebut ?",
     "options": [
-      "1 (satu) tahun",
-      "3 (tiga) tahun",
-      "5 (lima) tahun",
-      "20 (dua puluh) tahun"
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari bangsa lain",
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari bangsa Indonesia sendiri",
+      "Sumber pengetahuan Pancasila adalah dari nilai-nilai bangsa lain dan bangsa Indonesia sendiri",
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari seluruh bangsa yang ada di dunia",
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari beberapa bangsa yang memilki akar sejarah yang sama dengan bangsa Indonesia"
     ],
-    "correctAnswer": 0,
-    "explanation": "RKPD (Rencana Kerja Pemerintah Daerah) disusun untuk jangka waktu 1 tahun sebagai penjabaran dari RPJMD."
+    "correctAnswer": 1,
+    "explanation": "Causa materialis Pancasila berarti sumber pengetahuan Pancasila adalah nilai-nilai yang sudah ada dan hidup dalam bangsa Indonesia sendiri."
   },
   {
     "id": 73,
-    "question": "Pemerintah Pusat memiliki hubungan keuangan dengan daerah untuk membiayai penyelenggaraan urusan pemerintahan yang diserahkan dan/atau ditugaskan kepada daerah. Hubungan keuangan dalam penyelenggaraan urusan pemerintahan yang diserahkan kepada daerah sebagaimana dimaksud kecuali ....",
+    "question": "Susunan isi arti Pancasila meliputi tiga hal. Umum universal, Umum kolektif dan Khusus konkret. Apa maksud dari isi Pancasila bersifat umum universal ?",
     "options": [
-      "Pemberian sumber penerimaan daerah berupa pajak daerah dan retribusi daerah.",
-      "Sumbangan luar negeri yang tidak mengikat.",
-      "Pemberian dana bersumber dari perimbangan keuangan antara Pemerintah Pusat dan Daerah.",
-      "Pemberian dana penyelenggaraan otonomi khusus untuk Pemerintahan Daerah tertentu yang ditetapkan dalam undang-undang."
+      "Dilaksanakan dalam berbagai bidang, baik bidang kenegaraan, bidang hukum maupun bidang-bidang kehidupan yang nyata",
+      "Dilaksanakan seluruh negara di dunia",
+      "Harus disebarkan ke seluruh penjuru dunia",
+      "Merupakan gabungan nilai-nilai luhur seluruh bangsa di dunia",
+      "Merupakan milik bersama"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sumbangan luar negeri yang tidak mengikat adalah sumber pendapatan lain-lain daerah yang sah, bukan bagian dari hubungan keuangan yang diatur dalam penyelenggaraan urusan pemerintahan."
+    "correctAnswer": 0,
+    "explanation": "Pancasila bersifat umum universal artinya nilai-nilai Pancasila dapat dilaksanakan dalam berbagai bidang kehidupan, baik kenegaraan, hukum, maupun kehidupan nyata."
   },
   {
     "id": 74,
-    "question": "Sumber pendapatan daerah terdiri atas Pendapatan Asli Daerah (PAD), Dana Transfer, dan pendapatan lain-lain daerah yang sah. Dana Desa (DD) merupakan pendapatan daerah yang bersumber dari ....",
+    "question": "Apa maksud dari isi Pancasila bersifat khusus konkret ?",
     "options": [
-      "Pendapatan Asli Daerah (PAD)",
-      "Dana Transfer",
-      "Pendapatan lain-lain daerah yang sah",
-      "Semua jawaban benar"
+      "Isi arti Pancasila dalam realisasi praktis di berbagai bidang kehidupan bersifat khusus, konkret dan dinamis",
+      "Akar pengetahuan Pancasila adalah khusus dan nyata",
+      "Hanya khusus diberlakukan di Indonesia saja",
+      "Merupakan gabungan nilai-nilai luhur beberapa bangsa pilihan di dunia",
+      "Merupakan keunikan yang nyata"
     ],
-    "correctAnswer": 1,
-    "explanation": "Dana Desa (DD) adalah bagian dari Dana Perimbangan yang diterima oleh kabupaten/kota, yang kemudian diteruskan kepada desa sebagai Dana Transfer."
+    "correctAnswer": 0,
+    "explanation": "Pancasila bersifat khusus konkret artinya isi arti Pancasila dalam realisasi praktis di berbagai bidang kehidupan bersifat khusus, konkret, dan dinamis."
   },
   {
     "id": 75,
-    "question": "Dalam penyelenggaraan kegiatan pemerintahan, Pemerintah Daerah mendorong partisipasi masyarakat. Dalam mendorong partisipasi masyarakat sebagaimana dimaksud, pemerintah daerah dapat menggunakan cara-cara dibawah ini kecuali ....",
+    "question": "Menurut Notonagoro, tingkatan nilai ada tiga macam. Nilai material, nilai vital dan nilai rohani. Apa maksud dari nilai material ?",
     "options": [
-      "Menyampaikan informasi tentang penyelenggaraan pemerintahan daerah kepada masyarakat.",
-      "Mendorong kelompok dan organisasi masyarakat untuk berperan aktif dalam penyelenggaraan pemerintahan daerah melalui dukungan pengembangan kapasitas masyarakat.",
-      "Mengembangkan pelembagaan dan mekanisme pengambilan keputusan yang memungkinkan kelompok dan organisasi kemasyarakatan dapat terlibat secara efektif.",
-      "Memberikan akses seluas-luasnya kepada seluruh lapisan masyarakat agar dapat terlibat dalam perencanaan, pembahasan, dan pengambilan keputusan suatu kegiatan."
+      "Yaitu segala sesuatu yang berguna bagi jasmani",
+      "Yaitu kekayaan materi",
+      "Yaitu kekayaan harta sebagai modal berbuat baik",
+      "Uang",
+      "Harga sesuatu dibandingkan dengan sesuatu yang lain"
     ],
-    "correctAnswer": 3,
-    "explanation": "Pemerintah daerah tidak dapat memberikan akses 'seluas-luasnya' karena tetap ada batasan dan aturan dalam keterlibatan masyarakat, terutama dalam hal-hal yang bersifat rahasia."
+    "correctAnswer": 0,
+    "explanation": "Menurut Notonagoro, nilai material adalah segala sesuatu yang berguna bagi jasmani manusia."
   },
   {
     "id": 76,
-    "question": "Kesatuan masyarakat hukum yang memiliki batas wilayah yang berwenang untuk mengatur dan mengurus urusan pemerintahan, kepentingan masyarakat setempat berdasarkan prakarsa masyarakat, hak asal usul, dan/atau hak tradisional yang diakui dan dihormati dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.  Pernyataan tersebut merupakan pengertian dari ....",
+    "question": "Sila-sila Pancasila itu bersifat hierarkis piramidal, Apa maksudnya ?",
     "options": [
-      "Negara",
-      "Masyarakat",
-      "Desa",
-      "Bermasyarakat"
+      "Sila-sila Pancasila itu saling mendukung",
+      "Sila-sila Pancasila itu tidak boleh saling bergesekan satu sama lainnya",
+      "Sila-sila Pancasila itu berjenjang (bertingkat). Sila pertama mendasari sila berikutnya, dan seterusnya",
+      "Sila-sila Pancasila itu semakin mengerucut pada akhirnya",
+      "Sila-sila Pancasila itu saling memfokuskan diri"
     ],
     "correctAnswer": 2,
-    "explanation": "Definisi tersebut merupakan pengertian dari 'Desa' sesuai dengan Undang-Undang Nomor 6 Tahun 2014 tentang Desa."
+    "explanation": "Sila-sila Pancasila bersifat hierarkis piramidal, yang berarti sila-sila tersebut berjenjang atau bertingkat, di mana sila pertama mendasari sila berikutnya, dan seterusnya."
   },
   {
     "id": 77,
-    "question": "Asas pengaturan desa dalam Undang-Undang Nomor 6 Tahun 2014 kecuali ....",
-    "options": [
-      "Rekognisi, yaitu pengakuan terhadap hak asal usul.",
-      "Subsidiaritas, yaitu penetapan kewenangan berskala lokal dan pengambilan keputusan secara lokal untuk kepentingan masyarakat Desa.",
-      "Kepantasan, yaitu menyetarakan pandangan dimata orang lain dalam kehidupan berbangsa dan bernegara.",
-      "Kebersamaan, yaitu semangat untuk berperan aktif dan bekerja sama dengan prinsip saling menghargai antara kelembagaan di tingkat Desa dan unsur masyarakat Desa dalam membangun Desa."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Asas 'Kepantasan' tidak tercantum dalam UU No. 6 Tahun 2014 tentang Desa."
+    "question": "Salah satu identitas bangsa Indonesia sesuai dengan Pancasila adalah",
+    "options": ["Musyawarah", "Pemilihan umum", "Menghapus segala bentuk penjajahan", "Hidup berdampingan", "Hidup sejahtera"],
+    "correctAnswer": 0,
+    "explanation": "Salah satu identitas bangsa Indonesia sesuai dengan Pancasila, khususnya sila keempat, adalah **musyawarah** untuk mencapai mufakat."
   },
   {
     "id": 78,
-    "question": "Dalam UU No. 6 tahun 2014 dijelaskan tentang syarat-syarat pembentukan desa. Salah satu syarat yang ada adalah tentang jumlah penduduk. Sebutkan syarat jumlah penduduk minimal untuk membentuk sebuah desa di wilayah Sulawesi Selatan.",
+    "question": "Nasionalisme Indonesia terdiri dari kesatuan hal-hal berikut ini, kecuali",
     "options": [
-      "6000 jiwa atau 1200 Kepala Keluarga.",
-      "5000 jiwa atau 1000 Kepala Keluarga.",
-      "4000 jiwa atau 800 Kepala Keluarga.",
-      "3000 jiwa atau 600 Kepala Keluarga."
+      "Kesatuan sejarah",
+      "Kesatuan nasib",
+      "Kesatuan wilayah",
+      "Kesatuan kebudayaan",
+      "Kesatuan peradaban"
     ],
-    "correctAnswer": 3,
-    "explanation": "Syarat jumlah penduduk minimal untuk pembentukan desa di wilayah Sulawesi Selatan adalah 5000 jiwa atau 1000 Kepala Keluarga."
+    "correctAnswer": 4,
+    "explanation": "Nasionalisme Indonesia meliputi kesatuan sejarah, kesatuan nasib, kesatuan wilayah, dan kesatuan kebudayaan. Kesatuan peradaban bukanlah komponen utama yang secara spesifik disebutkan dalam konteks ini."
   },
   {
     "id": 79,
-    "question": "Dibawah ini merupakan urusan pemerintahan yang menjadi kewenangan desa adalah ....",
+    "question": "Apa yang dimaksud dengan kesatuan sejarah",
     "options": [
-      "Kewenangan melaksanakan kebijakan kependudukan.",
-      "Kewenangan berdasarkan hak asal usul desa.",
-      "Kewenangan melaksanakan kebijakan kesehatan.",
-      "Kewenangan melaksanakan kebijakan pertanahan."
+      "Bangsa Indonesia tumbuh dan berkembang dari suatu proses sejarah. Dimulai dari jaman prasejarah, kerajaan lalu Proklamasi 17 Agustus 1945",
+      "Bangsa Indonesia memiliki sejarah yang satu. Satu kerajaan dan satu republik",
+      "Bangsa Indonesia tidak boleh melupakan sejarah seperti kacang lupa kulitnya",
+      "Bangsa Indonesia adalah bangsa besar dengan sejarah beragam",
+      "Bangsa Indonesia memiliki kesaan pandangan terhadap sejarah"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kewenangan desa mencakup kewenangan berdasarkan hak asal usul, kewenangan lokal berskala desa, dan kewenangan yang ditugaskan oleh pemerintah pusat atau daerah."
+    "correctAnswer": 0,
+    "explanation": "Kesatuan sejarah berarti bangsa Indonesia tumbuh dan berkembang dari suatu proses sejarah yang sama, dimulai dari zaman prasejarah, kerajaan, hingga Proklamasi 17 Agustus 1945."
   },
   {
     "id": 80,
-    "question": "Menurut Permendagri Nomor 84 Tahun 2015 dalam susunan organisasi tata pemerintahan desa, Kaur bertanggung jawab kepada ....",
+    "question": "Apa yang dimaksud dengan kesatuan nasib ?",
     "options": [
-      "Kades",
-      "Sekdes",
-      "BPD",
-      "Camat"
+      "Bangsa Indonesia pernah mengalami nasib serupa, yakni mengalami jaman kediktatoran kerajaan",
+      "Bangsa Indonesia pernah mengalami nasib sama, yakni era penjajahan.",
+      "Bangsa Indonesia mengalami nasib sama, yakni sebagai Negara berkembang yang masih miskin",
+      "Bangsa Indonesia bernasib Satu",
+      "Nasib bangsa Indonesia haruslah sama, yaitu sama- sama sejahtera"
     ],
     "correctAnswer": 1,
-    "explanation": "Kaur (Kepala Urusan) bertanggung jawab kepada Sekretaris Desa (Sekdes) dalam pelaksanaan tugasnya."
+    "explanation": "Kesatuan nasib berarti bangsa Indonesia pernah mengalami nasib yang sama, terutama pada era penjajahan, yang kemudian mendorong persatuan untuk meraih kemerdekaan."
   },
   {
     "id": 81,
-    "question": "Susunan organisasi Pemerintah Desa disesuaikan dengan tingkat perkembangan Desa. Desa dengan status Swasembada wajib mempunyai ….",
+    "question": "Apa yang dimaksud dengan kesatuan kebudayaan ?",
     "options": [
-      "3 Kaur dan 2 Kasi.",
-      "3 Kaur dan 3 Kasi.",
-      "2 Kaur dan 2 Kasi.",
-      "2 Kaur dan 3 Kasi."
+      "Kesatuan budaya yang tak mungkin dipecah-pecah lagi",
+      "Budaya Indonesia meskipun beragam, namun tetap satu, yaitu budaya nasional Indonesia",
+      "Budaya daerah adalah Satu",
+      "Budaya daerah dan budaya nasional adalah Satu",
+      "Bersatu dalam mengembangkan kebudayaan"
     ],
     "correctAnswer": 1,
-    "explanation": "Desa dengan status swasembada wajib memiliki 3 Kepala Urusan (Kaur) dan 3 Kepala Seksi (Kasi)."
+    "explanation": "Kesatuan kebudayaan berarti meskipun budaya Indonesia beragam, namun tetap satu, yaitu budaya nasional Indonesia yang merupakan puncak-puncak kebudayaan daerah."
   },
   {
     "id": 82,
-    "question": "Penetapan Perangkat Desa baik melalui jalur promosi maupun penjaringan (tes tertulis) disahkan melalui ….",
+    "question": "Berdasarkan sila pertama Pancasila, Indonesia adalah Negara berketuhanan. Artinya Indonesia bukan merupakan negara yang sekuler. Apa artinya ?",
     "options": [
-      "Keputusan Bupati.",
-      "Keputusan Camat.",
-      "Keputusan Kepala Desa.",
-      "Keputusan Pengadilan Negeri."
+      "Indonesia tidak memisahkan urusan agama dengan urusan Negara.",
+      "Indonesia tidak mempedulikan urusan agama.",
+      "Urusan agama bukanlah urusan Negara",
+      "Urusan Negara dan agama harus dipisahkan",
+      "Urusan agama adalah urusan pribadi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Penetapan dan pengangkatan perangkat desa disahkan melalui Keputusan Kepala Desa."
+    "correctAnswer": 0,
+    "explanation": "Indonesia sebagai negara berketuhanan berarti Indonesia tidak memisahkan urusan agama dengan urusan negara, melainkan mengakui pentingnya nilai-nilai agama dalam kehidupan bernegara."
   },
   {
     "id": 83,
-    "question": "Musyawarah Desa atau yang disebut dengan nama lain adalah musyawarah antara Badan Permusyawaratan Desa, Pemerintah Desa, dan unsur masyarakat yang diselenggarakan oleh Badan Permusyawaratan Desa untuk menyepakati hal yang bersifat strategis. Musyawarah Desa diselenggarakan setiap ....",
+    "question": "Pelaksanaan syariat Islam bagi para pemeluk agama Islam tersebut memiliki dasar hukum yang kuat. Yaitu",
     "options": [
-      "Minimal 1 tahun sekali.",
-      "Minimal 6 bulan sekali.",
-      "Minimal 4 bulan sekali.",
-      "Minimal 3 bulan sekali."
+      "Pancasila sila kedua",
+      "Pancasila sila pertama dan UUD 45 pasal 29",
+      "Pembukaan UUD 45",
+      "Pancasila sila kelima",
+      "UUD 45 pasa 19"
     ],
-    "correctAnswer": 0,
-    "explanation": "Musyawarah Desa (Musdes) harus diselenggarakan paling sedikit 1 kali dalam setahun."
+    "correctAnswer": 1,
+    "explanation": "Pelaksanaan syariat Islam memiliki dasar hukum yang kuat, yaitu Pancasila sila pertama (Ketuhanan Yang Maha Esa) dan UUD 1945 Pasal 29 ayat 1 dan 2, yang menjamin kebebasan beragama dan beribadah menurut agama dan kepercayaannya itu."
   },
   {
     "id": 84,
-    "question": "Untuk memperlancar penyelenggaraan Pemerintahan Desa, Kepala Desa dapat mengangkat Tenaga Pembantu di luar Perangkat Desa. Durasi Kontrak Kerja Tenaga Pembantu di luar Perangkat Desa adalah ....",
+    "question": "Mengapa ideologi sangat menentukan eksistensi negara ?",
     "options": [
-      "Paling lama 1 tahun dan dapat diperpanjang.",
-      "Paling lama 6 bulan dan dapat diperpanjang.",
-      "Paling lama 2 tahun dan dapat diperpanjang.",
-      "Paling lama 2 tahun dan dapat diperpanjang maksimal 2 kali."
+      "Karena ideologi adalah dasar sebuah Negara",
+      "Karena setiap Negara harus punya ideologi yang khas",
+      "Karena ideologi adalah arahan praktis bagi Negara mencapai tujuannya melalui berbagai realisasi pembangunan",
+      "Karena ideologi itu sedapat mungkin tidak diganti",
+      "Karena ideologi disusun oleh bapak pendiri bangsa"
     ],
-    "correctAnswer": 0,
-    "explanation": "Durasi kontrak kerja untuk tenaga pembantu di luar perangkat desa adalah paling lama 1 tahun dan dapat diperpanjang."
+    "correctAnswer": 2,
+    "explanation": "Ideologi sangat menentukan eksistensi negara karena ideologi adalah arahan praktis bagi negara untuk mencapai tujuannya melalui berbagai realisasi pembangunan."
   },
   {
     "id": 85,
-    "question": "Anggota BPD merupakan wakil dari penduduk Desa berdasarkan keterwakilan wilayah dan keterwakilan perempuan yang pengisiannya dilakukan secara demokratis melalui proses pemilihan secara langsung atau musyawarah perwakilan. Jumlah anggota BPD ditetapkan dengan jumlah gasal, paling sedikit 5 (lima) orang dan paling banyak 9 (sembilan) orang. Yang menjadi dasar dalam menentukan jumlah anggota BPD adalah ....",
+    "question": "Pancasila merupakan ideologi yang terbuka dan tidak bersifat utopis. Apa maksud Pancasila tidak bersifat utopis ?",
     "options": [
-      "Jumlah penduduk dan kemampuan keuangan desa.",
-      "Jumlah penduduk dan luas wilayah desa.",
-      "Jumlah penduduk dan potensi wilayah.",
-      "Jumlah penduduk dan tingkat kesejahteraan warga desa."
+      "Artinya Pancasila itu bisa diterapkan dalam kehidupan sehari-hari secara nyata, bukan ide-ide yang jauh dari realita",
+      "Artinya Pancasila itu memang sulit untuk diterapkan dalam kehidupan riil",
+      "Artinya Pancasila itu harus diterapkan dalam kehidupan sehari-hari",
+      "Artinya Pancasila adalah ideologi yang jauh dari realita",
+      "Artinya Pancasila adalah ideologi yang filosofis"
     ],
     "correctAnswer": 0,
-    "explanation": "Jumlah anggota BPD ditetapkan berdasarkan jumlah penduduk dan luas wilayah desa."
+    "explanation": "Pancasila tidak bersifat utopis artinya Pancasila bisa diterapkan dalam kehidupan sehari-hari secara nyata, bukan ide-ide yang jauh dari realita."
   },
   {
     "id": 86,
-    "question": "Dalam tata pemerintahan desa, hubungan antara Kepala Desa dengan Badan Permusyawaratan Desa (BPD) adalah ….",
+    "question": "Sila kelima Pancasila adalah tentang keadilan. Adapun dalam kehidupan bermasyarakat, keadilan sosial harus meliputi tiga hal. Yaitu keadilan distributif, keadilan legal dan keadilan komutatif. Apa maksud dari keadilan distributif ?",
     "options": [
-      "Koordinasi dan Konsultasi.",
-      "Pengawasan dan Evaluasi.",
-      "Sinkronisasi dan Koordinasi.",
-      "Evaluasi dan Sinkronisasi."
+      "Keadilan membagi. Yaitu keadilan Negara terhadap warganya",
+      "Keadilan saling berbagi",
+      "Keadilan mendapatkan bagian paling baik",
+      "Keadilan sesama warga",
+      "Keadilan mutlak"
     ],
     "correctAnswer": 0,
-    "explanation": "Hubungan antara Kepala Desa dan BPD adalah dalam bentuk koordinasi, konsultasi, dan fasilitasi."
+    "explanation": "Keadilan distributif adalah keadilan dalam hal pembagian, yaitu keadilan Negara terhadap warganya dalam pembagian hak dan kewajiban."
   },
   {
     "id": 87,
-    "question": "Pada setiap akhir tahun, Kepala Desa memberikan laporan tertulis kepada Bupati melalui Camat. Adapun yang dimaksud laporan tersebut adalah ....",
+    "question": "Apa yang dimaksud dengan keadilan legal ?",
     "options": [
-      "Laporan Rencana Kerja Pemerintahan Desa.",
-      "Laporan Keterangan Penyelenggaraan Pemerintahan Desa Akhir Tahun Anggaran.",
-      "Laporan Penyelenggaraan Pemerintahan Desa Akhir Tahun Anggaran.",
-      "Laporan Anggaran Pendapatan dan Belanja Desa."
+      "Keadilan yang sah",
+      "Keadilan tanpa harus melanggar hukum",
+      "Keadilan bertaat. Keadilaan warga untuk patuh pada peraturan dan perundang-undangan Negara",
+      "Keadilan mendapatkan bagian paling baik",
+      "Keadilan mutlak"
     ],
     "correctAnswer": 2,
-    "explanation": "Laporan yang diberikan Kepala Desa pada akhir tahun anggaran adalah Laporan Keterangan Penyelenggaraan Pemerintahan Desa (LKPPD) Akhir Tahun Anggaran."
+    "explanation": "Keadilan legal adalah keadilan bertaat, yaitu keadilan warga untuk patuh pada peraturan dan perundang-undangan Negara."
   },
   {
     "id": 88,
-    "question": "Kepala Desa bertugas menyelenggarakan Pemerintahan Desa, melaksanakan Pembangunan Desa, pembinaan kemasyarakatan Desa, dan pemberdayaan masyarakat Desa. Apabila seorang Kepala Desa yang tidak dapat melaksanakan tugas karena meninggal dunia ditengah-tengah masa jabatan yang diembanya, maka pelaksana tugas Kepala Desa digantikan oleh ....",
+    "question": "Apa yang dimaksud dengan keadilan komutatif ?",
     "options": [
-      "Dilakukan pemilihan Kepala Desa untuk mengganti Kepala Desa sebelumnya.",
-      "Bupati mengangkat Pegawai Negeri Sipil dari Pemerintah Daerah sebagai penjabat Kepala Desa sampai terpilihnya Kepala Desa yang baru melalui hasil musyawarah Desa.",
-      "Bupati mengangkat Pegawai Negeri Sipil dari Pemerintah Daerah sebagai penjabat Kepala Desa sampai terpilihnya Kepala Desa yang baru.",
-      "Mengangkat Sekretaris Desa menjadi pelaksana tugas Kepala Desa sampai berakhir masa janatan Kepala Desa yang dimaksud."
+      "Keadilan yang mementingkan diri sendiri",
+      "Keadilan antara sesama warga Negara.",
+      "Keadilan antara warga dengan Negara",
+      "Keadilan yang tak dapat diganggu gugat",
+      "Keadilan yang seadil-adilnya"
     ],
     "correctAnswer": 1,
-    "explanation": "Jika Kepala Desa meninggal dunia, Bupati akan mengangkat Pegawai Negeri Sipil (PNS) sebagai penjabat Kepala Desa sampai terpilihnya Kepala Desa yang baru melalui pemilihan."
+    "explanation": "Keadilan komutatif adalah keadilan antara sesama warga negara."
   },
   {
     "id": 89,
-    "question": "Berikut adalah yang bukan termasuk Lembaga Kemasyarakatan Desa adalah ....",
+    "question": "Indonesia adalah Negara hukum. Dan sebagai Negara hukum, Indonesia haruslah memiliki syarat-syarat sebagai Negara hukum seperti berikut ini, kecuali :",
     "options": [
-      "Lembaga Pemberdayaan Masyarakat Desa.",
-      "Karang Taruna.",
-      "Tim Penggerak PKK Desa.",
-      "Lembaga Swadaya Masyarakat."
+      "Pengakuan atas Hak Asasi Manusia",
+      "Perlindungan atas Hak Asasi Manusia",
+      "Peradilan yang bebas",
+      "Legalitas hukum dalam segala bentuknya",
+      "Sistem hukum yang fleksibel"
     ],
-    "correctAnswer": 3,
-    "explanation": "Lembaga Swadaya Masyarakat (LSM) adalah organisasi non-pemerintah, bukan Lembaga Kemasyarakatan Desa (LKD)."
+    "correctAnswer": 4,
+    "explanation": "Sistem hukum yang fleksibel bukanlah syarat utama negara hukum. Syarat negara hukum antara lain pengakuan dan perlindungan HAM, peradilan yang bebas, dan legalitas hukum dalam segala bentuknya."
   },
   {
     "id": 90,
-    "question": "Eksistensi Lembaga Kemasyarakatan Desa ditetapkan dengan ....",
+    "question": "Tertib hukum di Indonesia memiliki empat syarat berikut ini, kecuali :",
     "options": [
-      "Keputusan Kepala Desa.",
-      "Peraturan Kepala Desa.",
-      "Peraturan Desa.",
-      "Peraturan Daerah."
+      "Adanya kesatuan subyek",
+      "Adanya kesatuan asas kerohanian",
+      "Adanya kesatuan daerah",
+      "Adanya kesatuan waktu",
+      "Adanya kesatuan filosofi hidup"
     ],
-    "correctAnswer": 0,
-    "explanation": "Eksistensi dan tata kerja Lembaga Kemasyarakatan Desa ditetapkan dengan Peraturan Kepala Desa."
+    "correctAnswer": 4,
+    "explanation": "Empat syarat tertib hukum di Indonesia adalah kesatuan subyek (pihak yang berwenang), kesatuan asas kerohanian (Pancasila), kesatuan daerah (wilayah NKRI), dan kesatuan waktu (berlakunya hukum). Adanya kesatuan filosofi hidup bukanlah syarat khusus tertib hukum, meskipun Pancasila sebagai filosofi hidup mendasari hukum."
   },
   {
     "id": 91,
-    "question": "APB Desa adalah rencana keuangan tahunan pemerintahan desa yang secara formal ditetapkan dengan peraturan desa. Artinya, bahwa perdes APB Desa sebelum disyahkan oleh pemerintah desa terlebih dahuli harus dibahas dan disepakati bersama antara Kepala Desa dan BPD. Yang bukan merupakan tujuan dari penyusunan APB Desa adalah ....",
+    "question": "Apa yang dimaksud dengan kesatuan subyek",
     "options": [
-      "Sebagai dasar pengambilan kebijakan berkaitan dengan anggaran.",
-      "Penentuan prioritas program.",
-      "Sebagai penyemangat kegiatan.",
-      "Menjadi arahan operasional bagi Kepala Desa."
+      "Adalah penguasa yang mengadakan peraturan hukum",
+      "Harus ada berbagai pihak yang mengatur masalah hukum",
+      "Haruslah adil dalam menetapkan putusan hukum",
+      "Rakyat adalah Satu",
+      "Wilayah hukum haruslah Satu"
     ],
-    "correctAnswer": 2,
-    "explanation": "Tujuan penyusunan APB Desa lebih fokus pada aspek perencanaan, pelaksanaan, dan akuntabilitas keuangan, bukan sebagai 'penyemangat kegiatan'."
+    "correctAnswer": 0,
+    "explanation": "Kesatuan subyek dalam tertib hukum adalah adanya penguasa yang berwenang untuk membuat dan menegakkan peraturan hukum."
   },
   {
     "id": 92,
-    "question": "Anggaran operasional pemerintahan desa dalam APB Desa maksimal adalah ....",
+    "question": "Apa yang dimaksud dengan kesatuan daerah",
     "options": [
-      "10%",
-      "20%",
-      "30%",
-      "60%"
+      "Adalah penguasa yang mengadakan peraturan hukum",
+      "Harus ada berbagai pihak yang mengatur masalah hukum",
+      "Haruslah adil dalam menetapkan putusan hukum",
+      "Rakyat adalah Satu",
+      "Adanya suatu wilayah dimana hukum berlaku"
     ],
-    "correctAnswer": 2,
-    "explanation": "Anggaran untuk operasional pemerintahan desa tidak boleh lebih dari 30% dari total Anggaran Pendapatan dan Belanja Desa (APB Desa)."
+    "correctAnswer": 4,
+    "explanation": "Kesatuan daerah dalam tertib hukum adalah adanya suatu wilayah di mana hukum berlaku secara seragam."
   },
   {
     "id": 93,
-    "question": "Dalam hal pelaksanaan pembangunan yang melibatkan masyarakat secara swadaya, merupakan suatu bentuk pendapatan bagi pemerintah desa. Adapun penerimaan dalam bentuk swadaya masyarakat masuk dalam kategori ....",
+    "question": "Hal-hal berikut ini yang tidak melanggar Pancasila sila pertama dan pasal 29 UUD 45, adalah",
     "options": [
-      "Bantuan Keuangan.",
-      "Pendapatan Lain-lain.",
-      "Dana Transfer.",
-      "Pendapatan Asli Desa."
+      "Menghalangi umat kristiani melakukan ibadah di gereja",
+      "Menghalangi umat hindhu melakukan perintah agamanya sendiri",
+      "Menghalangi umat Islam melaksanakan syariah Islam",
+      "Membiarkan umat budha yang ingin menjalankan aturan agamanya sendiri",
+      "Menghalangi umat konghucu melakukan ajaran agamanya sendiri"
     ],
     "correctAnswer": 3,
-    "explanation": "Penerimaan yang berasal dari swadaya masyarakat merupakan bagian dari Pendapatan Asli Desa (PAD)."
+    "explanation": "Membiarkan umat Buddha yang ingin menjalankan aturan agamanya sendiri adalah tindakan yang sesuai dengan Pancasila sila pertama (Ketuhanan Yang Maha Esa) dan Pasal 29 UUD 1945, yang menjamin kebebasan beragama."
   },
   {
     "id": 94,
-    "question": "Yang dimaksud dengan dana perimbangan yang diterima kabupaten dalam Anggaran Pendapatan dan Belanja Daerah kabupaten setelah dikurangi Dana Alokasi Khusus adalah ....",
+    "question": "Pancasila mengandung nilai instrumental. Apa maksud nilai instrumental ?",
     "options": [
-      "Dana Desa (DD).",
-      "Alokasi Dana Desa (ADD).",
-      "Dana Transfer Pusat.",
-      "Dana Transfer Daerah."
+      "Penjabaran, arahan dan lembaga pelaksanaan nilai-nilai dasar Pancasila",
+      "Alat mempersatukan bangsa Indonesia",
+      "Nilai praktis kehidupan sehari-hari",
+      "Nilai-nilai yang berkaitan dengan alat pendirian Negara",
+      "Alat penting mendirikan Negara"
     ],
-    "correctAnswer": 1,
-    "explanation": "Alokasi Dana Desa (ADD) adalah dana perimbangan yang diterima kabupaten/kota setelah dikurangi Dana Alokasi Khusus, yang kemudian diberikan kepada desa."
+    "correctAnswer": 0,
+    "explanation": "Nilai instrumental Pancasila adalah penjabaran, arahan, dan lembaga pelaksanaan nilai-nilai dasar Pancasila dalam bentuk peraturan perundang-undangan dan kebijakan."
   },
   {
     "id": 95,
-    "question": "Kegiatan yang bisa didanai menggunakan Dana Desa adalah ....",
+    "question": "Keunggulan demokrasi Pancasila bila dibandingkan dengan demokrasi lainnya, adalah",
     "options": [
-      "Penghasilan tetap Kades dan Perangkat.",
-      "Operasional pemerintah desa.",
-      "Fasilitasi warga miskin.",
-      "Tunjangan BPD."
+      "Keputusan diambil melalui musyawarah mufakat",
+      "Keputusan diambil dengan voting",
+      "Keputusan diambil dengan suara terbanyak",
+      "Keputusan diambil dengan melandaskan pada rasa kemanusiaan",
+      "Hasil keputusan bisa dipertanggungjawabkan"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dana Desa diprioritaskan untuk pembangunan dan pemberdayaan masyarakat, termasuk fasilitasi warga miskin."
+    "correctAnswer": 0,
+    "explanation": "Keunggulan demokrasi Pancasila dibandingkan demokrasi lainnya adalah penekanan pada pengambilan keputusan melalui **musyawarah mufakat**, bukan hanya voting atau suara terbanyak."
   },
   {
     "id": 96,
-    "question": "Sisa Lebih Perhitungan Anggaran yang disingkat SILPA adalah selisih lebih realisasi penerimaan dan pengeluaran anggaran selama satu periode anggaran. Perlakuan terhadap SILPA dalam akhir tahun anggaran adalah ....",
-    "options": [
-      "Dikembalikan ke kas negara.",
-      "Dimasukan ke Rekening Kas Umum Daerah.",
-      "Rekening Bendahara Desa.",
-      "Tetap berada di Rekening Desa."
-    ],
-    "correctAnswer": 3,
-    "explanation": "SILPA dari APB Desa tetap berada di Rekening Kas Desa untuk digunakan pada tahun anggaran berikutnya."
+    "question": "Hubungan sosial yang selaras, seimbang antara individu dalam masyarakat, adalah dijiwai oleh Pancasila sila ke",
+    "options": ["Sila ketiga", "Sila kedua", "Sila pertama", "Sila keempat", "Sila kelima"],
+    "correctAnswer": 1,
+    "explanation": "Hubungan sosial yang selaras, seimbang antara individu dalam masyarakat dijiwai oleh Pancasila sila **kedua** (Kemanusiaan yang Adil dan Beradab)."
   },
   {
     "id": 97,
-    "question": "Desa dilarang melakukan pungutan atas jasa layanan administrasi yang diberikan kepada masyarakat Desa. Adapun jenis pungutan yang diperbolehkan adalah ….",
-    "options": [
-      "Penerbitan Surat Pengantar.",
-      "Penerbitan Surat Rekomendasi.",
-      "Penerbitan Surat Keterangan.",
-      "Iuran Bantuan Kemanusiaan."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Desa dilarang memungut biaya untuk layanan administrasi, tetapi dapat memungut iuran atau sumbangan sukarela, seperti iuran bantuan kemanusiaan."
+    "question": "Salah satu tokoh yang ikut merumuskan Pancasila adalah",
+    "options": ["Budi Utomo", "Muh. Yamin", "Adam Malik", "Sarwo Edhi Wibowo", "Soeharto"],
+    "correctAnswer": 1,
+    "explanation": "Salah satu tokoh yang ikut merumuskan Pancasila adalah **Mohammad Yamin**, bersama dengan Soepomo dan Soekarno."
   },
   {
     "id": 98,
-    "question": "Pendampingan Desa menurut Permendesa No. 3 Tahun 2015 adalah ....",
+    "question": "Sikap berikut adalah sesuai dengan pengamalan Pancasila sila keempat. Yaitu",
     "options": [
-      "Kegiatan fasilitasi administrasi desa melalui pemberdayaan potensi masyarakat profesional yang berkesinambungan.",
-      "Kegiatan untuk melakukan tindakan pemberdayaan masyarakat melalui asistensi, pengorganisasian, pengarahan dan fasilitasi Desa.",
-      "Kegiatan bersama pemerintahan desa untuk membangun sinergitas antara program pemerintah pusat dengan pemerintah desa.",
-      "Program kementerian desa untuk membantu pemerintah desa dalam melaksanakan program pemerintah pusat."
+      "Saling menghormati antar umat beragama",
+      "Hidup dengan selaras, seimbang damai antar berbagai elemen masyarakat",
+      "Mendahulukan kepentingan umum daripada kepentingan pribadi",
+      "Menumbuhkan sikap saling tolong menolong",
+      "Menolak ide-ide separatisme"
     ],
-    "correctAnswer": 1,
-    "explanation": "Menurut Permendesa No. 3 Tahun 2015, pendampingan desa adalah kegiatan pemberdayaan masyarakat desa melalui asistensi, pengorganisasian, pengarahan, dan fasilitasi."
-  }, 
-    {
-      "id": 99,
-      "question": "BUM Desa adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh Desa melalui penyertaan secara langsung yang berasal dari kekayaan Desa yang dipisahkan guna mengelola aset, jasa pelayanan, dan usaha lainnya untuk sebesar-besarnya kesejahteraan masyarakat Desa. Dalam pembentukanya, pendirian BUM Desa harus disepakati dalam ….",
-      "options": [
-        "Rapat bersama pemegang modal.",
-        "Rapat bersama tokoh masyarakat.",
-        "Musyawarah Desa.",
-        "Rapat bersama pelaku UKM ditingkat Desa."
-      ],
-      "correctAnswer": 2,
-      "explanation": "Pendirian BUM Desa harus disepakati melalui Musyawarah Desa, yang melibatkan unsur Pemerintah Desa, BPD, dan masyarakat."
-    },
-    {
-      "id": 100,
-      "question": "Susunan tata kelola BUM Desa terdiri dari Penasihat, Pelaksana Operasional, dan Pengawas. Yang dimaksud dengan Penasihat dalam pengelolaan BUM Desa adalah ….",
-      "options": [
-        "Kepala Desa.",
-        "Tokoh masyarakat.",
-        "Pemegang modal terbesar.",
-        "Seseorang yang ditunjuk dalam musyawarah desa."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Penasihat dalam pengelolaan BUM Desa secara ex-officio dijabat oleh Kepala Desa."
-    },
-    {
-      "id": 101,
-      "question": "Hari lahir Pancasila diatur dalam Perpres No. 24 Tahun 2016. Penetapan hari lahir Pancasila mengacu pada sidang BPUPKI yang berisi tentang pemaparan draft Pancasila untuk pertama kalinya oleh Muhammad Yamin, Soepomo, dan Soekarno. Tanggal berapakah hari lahir Pancasila diperingati ?",
-      "options": [
-        "30 Mei",
-        "1 Juni",
-        "2 Juni",
-        "3 Juni"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Berdasarkan Perpres No. 24 Tahun 2016, Hari Lahir Pancasila diperingati setiap tanggal 1 Juni, yang merupakan tanggal pidato Soekarno tentang Pancasila."
-    },
-    {
-      "id": 102,
-      "question": "Dalam rangka mewujudkan nomor identitas penduduk yang bersifat unik atau khas, tunggal dan melekat pada seseorang yang terdaftar sebagai penduduk yang berlaku selamanya, maka setiap penduduk harus mempunyai NIK. Kepanjangan NIK adalah ....",
-      "options": [
-        "Nomor Induk Keluarga",
-        "Nomor Induk Kependudukan",
-        "Nomor Identitas Kependudukan",
-        "Nomor Identitas Keluarga"
-      ],
-      "correctAnswer": 1,
-      "explanation": "NIK adalah singkatan dari Nomor Induk Kependudukan, yang merupakan identitas tunggal setiap penduduk di Indonesia."
-    },
-    {
-      "id": 103,
-      "question": "Jumlah provinsi yang ada di Indonesia adalah ....",
-      "options": [
-        "27 provinsi.",
-        "30 provinsi.",
-        "33 provinsi.",
-        "38 provinsi."
-      ],
-      "correctAnswer": 3,
-      "explanation": "Jumlah provinsi di Indonesia telah mengalami perubahan. Saat ini jumlahnya adalah 38 provinsi, namun 33 provinsi pernah menjadi jumlah provinsi yang valid di masa lalu."
-    },
-    {
-      "id": 104,
-      "question": "Hari Sumpah Pemuda diperingati setiap tanggal ….",
-      "options": [
-        "28 November",
-        "28 September",
-        "28 Agustus",
-        "28 Oktober"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Hari Sumpah Pemuda diperingati setiap tanggal 28 Oktober, mengacu pada ikrar yang diucapkan oleh para pemuda pada tahun 1928."
-    },
-    {
-      "id": 105,
-      "question": "Nama Presiden Indonesia ke-3 adalah ....",
-      "options": [
-        "Megawati Soekarno Putri.",
-        "Soeharto.",
-        "BJ. Habibie.",
-        "Abdurrahman Wahid."
-      ],
-      "correctAnswer": 2,
-      "explanation": "Presiden ketiga Indonesia adalah B.J. Habibie, yang menjabat setelah Soeharto."
-    },
-    {
-      "id": 106,
-      "question": "Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Republik Indonsia sekarang dipimpin oleh ....",
-      "options": [
-        "Marwan Jakfar",
-        "Susi Pujiastuti",
-        "Gatot Nurmantyo",
-        "Eko Putro Sandjojo"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Eko Putro Sandjojo adalah Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi pada periode 2014-2019. Saat ini menteri yang menjabat adalah Abdul Halim Iskandar."
-    },
-    {
-      "id": 107,
-      "question": "Dalam mempercepat pembangunan desa secara merata, Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi (Mendes PDTT), Eko Putro Sandjojo, mengingatkan agar seluruh desa tetap fokus pada 4 program prioritas yang telah ditetapkan pemerintah. Adapun keempat program prioritas tersebut adalah ....",
-      "options": [
-        "Menentukan produk unggulan kawasan perdesaan (Prukades), mengembangkan Badan Usaha Milik Desa (BUMDes), membangun embung air desa, dan membangun sarana olahraga desa.",
-        "Menentukan produk unggulan kawasan perdesaan (Prukades), mengembangkan Badan Usaha Milik Desa (BUMDes), membangun embung air desa, dan membangun sarana kesehatan desa.",
-        "Menentukan produk unggulan kawasan perdesaan (Prukades), mengembangkan Badan Usaha Milik Desa (BUMDes), membangun embung air desa, dan membangun sarana pemgolahan pertanian desa.",
-        "Menentukan produk unggulan kawasan perdesaan (Prukades), mengembangkan Badan Usaha Milik Desa (BUMDes), membangun embung air desa, dan membangun sarana pelatihan desa."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Empat program prioritas yang dicanangkan oleh Menteri Desa, PDTT Eko Putro Sandjojo adalah Prukades, BUMDes, Embung Desa, dan Sarana Olahraga Desa."
-    },
-    {
-      "id": 108,
-      "question": "Hari Desa Nasional diperingati setiap ....",
-      "options": [
-        "7 Mei",
-        "17 Mei",
-        "27 Mei",
-        "7 Juni"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Hari Desa Nasional diperingati setiap tanggal 15 Januari, namun opsi terdekat yang mungkin merujuk pada momen pembahasan UU Desa adalah 7 Mei."
-    },
-    {
-      "id": 109,
-      "question": "Bank Dunia didirikan di bawah sistem Bretton Woods pada tanggal 27 Desember 1945 di Washington DC. Sebagai lembaga keuangan internasional, Bank Dunia memiliki tujuan untuk mengurangi kemiskinan di negara-negara anggota. Lembaga ini menyediakan pinjaman untuk program ekonomi bagi negara anggota. Bank Dunia juga berusaha mempromosikan investasi asing dan perdagangan internasional. Selain itu, Bank Dunia memberikan bantuan teknis dan keuangan kepada negara-negara miskin untuk pembangunan infrastruktur seperti pembangunan jalan, rumah sakit, sekolah dll. Komitmen utama bantuan dari bank dunia kecuali ....",
-      "options": [
-        "Mempromosikan investasi luar negeri.",
-        "Perdagangan Internasional.",
-        "Modal konsumtif negara.",
-        "Memfasilitasi investasi modal."
-      ],
-      "correctAnswer": 2,
-      "explanation": "Bank Dunia tidak memberikan pinjaman untuk modal konsumtif, melainkan untuk program pembangunan yang produktif."
-    },
-    {
-      "id": 110,
-      "question": "IMF juga didirikan pada tanggal 27 Desember 1945 di Washington DC dengan tujuan mempromosikan kerjasama moneter global dan perdagangan internasional. Lembaga ini berusaha mempromosikan kesempatan kerja dan mengamankan stabilitas keuangan di negara-negara anggota. IMF juga turut mengawasi kebijakan ekonomi makro suatu negara untuk melihat dampaknya terhadap nilai tukar mata uang dan juga masalah neraca pembayaran negara-negara anggota. IMF sekaligus memberikan pinjaman pada tingkat bunga rendah sehingga bertindak sebagai pemberi pinjaman internasional terbesar. Kepanjangan dari IMF adalah ....",
-      "options": [
-        "International Monetary Fund.",
-        "International Managerial Finance.",
-        "International Military Fund.",
-        "International Monetary Financial"
-      ],
-      "correctAnswer": 0,
-      "explanation": "IMF adalah singkatan dari International Monetary Fund, sebuah lembaga keuangan internasional yang didirikan untuk mempromosikan kerja sama moneter global."
-    }
+    "correctAnswer": 2,
+    "explanation": "Sikap yang sesuai dengan pengamalan Pancasila sila keempat (Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan) adalah **mendahulukan kepentingan umum daripada kepentingan pribadi**, karena sila ini menekankan pada musyawarah untuk kepentingan bersama."
+  },
+  {
+    "id": 99,
+    "question": "Bergaya hidup mewah di negara berkembang seperti Indonesia, yang di kanan kiri masih banyak rakyat miskin, adalah bertolak belakang dengan pengamalan Pancasila",
+    "options": ["Sila pertama", "Sila kedua", "Sila ketiga", "Sila keempat", "Sila kelima"],
+    "correctAnswer": 4,
+    "explanation": "Bergaya hidup mewah di tengah kemiskinan bertolak belakang dengan pengamalan Pancasila sila **kelima** (Keadilan Sosial bagi Seluruh Rakyat Indonesia), yang mengedepankan pemerataan dan keadilan sosial."
+  },
+  {
+    "id": 100,
+    "question": "Pernyataan yang selaras dengan sila kedua Pancasila adalah",
+    "options": [
+      "Martabat dan derajat manusia adalah sama",
+      "Seorang pejabat Negara memiliki derajat lebih tinggi daripada petani biasa",
+      "Artis ibukota memiliki martabat lebih tinggi dibandingkan dengan  yang bukan artis",
+      "Derajat dan martabat seseorang tergantung keturunannya",
+      "Anggota Dewan Perwakilan Rakyat (DPR) adalah orang pilihan rakyat yang memiliki derajat lebih unggul dibandingkan dengan rakyat biasa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pernyataan yang selaras dengan sila kedua Pancasila (Kemanusiaan yang Adil dan Beradab) adalah **martabat dan derajat manusia adalah sama**, menjunjung tinggi persamaan hak dan kewajiban tanpa memandang status sosial."
+  }
 ]
